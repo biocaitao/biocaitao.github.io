@@ -1,0 +1,128 @@
+{
+  "fileVersions": {
+    "inMeta": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/meta.tsv",
+      "md5": "2ec6d0e533",
+      "size": 187515,
+      "mtime": "2021-08-19 05:09:05"
+    },
+    "outMeta": {
+      "fname": "lungcancer/LungCancer/meta.tsv",
+      "md5": "2ec6d0e533",
+      "size": 187515,
+      "mtime": "2021-08-19 07:24:33"
+    },
+    "inMatrix": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/exprMatrix.tsv.gz",
+      "md5": "298305784d",
+      "size": 4137058,
+      "mtime": "2021-08-19 05:09:05"
+    },
+    "outMatrix": {
+      "fname": "lungcancer/LungCancer/exprMatrix.tsv.gz",
+      "md5": "298305784d",
+      "size": 4137058,
+      "mtime": "2021-08-19 07:24:33"
+    },
+    "conf": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/cellbrowser.conf",
+      "md5": "45cc64c092",
+      "size": 341,
+      "mtime": "2021-08-19 05:09:05"
+    }
+  },
+  "sampleCount": 6292,
+  "matrixWasFiltered": false,
+  "metaFields": [
+    {
+      "name": "Cell",
+      "label": "Cell",
+      "type": "uniqueString",
+      "maxSize": 16,
+      "diffValCount": 6292,
+      "md5": "56a8a5b7bb"
+    },
+    {
+      "name": "nCount_RNA",
+      "label": "nCount_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 2188,
+      "md5": "a8f28fc533"
+    },
+    {
+      "name": "nFeature_RNA",
+      "label": "nFeature_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 158,
+      "md5": "bd217b3052"
+    },
+    {
+      "name": "Cluster",
+      "label": "Cluster",
+      "type": "enum",
+      "valCounts": [
+        [
+          "T/B",
+          3694
+        ],
+        [
+          "Tumour",
+          997
+        ],
+        [
+          "NK",
+          724
+        ],
+        [
+          "Myeloid",
+          395
+        ],
+        [
+          "Imm1268a+",
+          260
+        ],
+        [
+          "Fibroblast",
+          121
+        ],
+        [
+          "Epithelial",
+          65
+        ],
+        [
+          "Endothelial",
+          36
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 8,
+      "md5": "050d5d3e47"
+    }
+  ],
+  "matrixArrType": "Float32",
+  "labelField": "Cluster",
+  "coords": [
+    {
+      "name": "coords_0",
+      "shortLabel": "Seurat tsne",
+      "md5": "6bd1c56f9e",
+      "minX": 0,
+      "maxX": 65535,
+      "minY": 0,
+      "maxY": 65534,
+      "type": "Uint16",
+      "textFname": "Seurat_tsne.coords.tsv.gz",
+      "labelMd5": "d41d8cd98f"
+    }
+  ],
+  "hasFiles": [
+    "datasetDesc"
+  ],
+  "markers": [],
+  "name": "LungCancer",
+  "shortLabel": "LungCancer",
+  "clusterField": "Cluster",
+  "md5": "d2c87c8929"
+}

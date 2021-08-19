@@ -1,0 +1,6 @@
+{
+  "coordFiles": [
+    "Seurat_tsne.coords.tsv.gz"
+  ],
+  "matrixFile": "lungcancer/LungCancer/exprMatrix.tsv.gz"
+}

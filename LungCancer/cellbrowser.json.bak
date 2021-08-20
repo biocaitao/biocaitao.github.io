@@ -17,5 +17,10 @@
   ],
   "geneLabel": "MIRNA",
   "quickGenesFile": "quickGenes.csv",
+  "metaOpt": {
+    "Cluster_field": {
+      "fontSize": "10px"
+    }
+  },
   "inDir": ""
 }

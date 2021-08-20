@@ -15,5 +15,7 @@
       "shortLabel": "Seurat tsne"
     }
   ],
+  "geneLabel": "MIRNA",
+  "quickGenesFile": "quickGenes.csv",
   "inDir": ""
 }

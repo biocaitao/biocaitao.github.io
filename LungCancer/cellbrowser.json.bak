@@ -19,7 +19,7 @@
   "quickGenesFile": "quickGenes.csv",
   "metaOpt": {
     "Cluster_field": {
-      "fontSize": "8px"
+      "fontSize": "5px"
     }
   },
   "inDir": ""

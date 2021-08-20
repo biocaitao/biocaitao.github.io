@@ -22,13 +22,13 @@
       "fname": "lungcancer/LungCancer/meta.tsv",
       "md5": "2ec6d0e533",
       "size": 187515,
-      "mtime": "2021-08-20 07:32:02"
+      "mtime": "2021-08-20 07:33:59"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/cellbrowser.conf",
-      "md5": "c9c6e2f099",
+      "md5": "a58bb60c75",
       "size": 447,
-      "mtime": "2021-08-20 07:29:44"
+      "mtime": "2021-08-20 07:33:53"
     }
   },
   "matrixArrType": "Float32",
@@ -41,7 +41,7 @@
       "type": "uniqueString",
       "maxSize": 16,
       "diffValCount": 6292,
-      "md5": "c79f45e6e7"
+      "md5": "3824f567f6"
     },
     {
       "name": "nCount_RNA",
@@ -49,7 +49,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 2188,
-      "md5": "68767ce744"
+      "md5": "c280f8d8f4"
     },
     {
       "name": "nFeature_RNA",
@@ -57,7 +57,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 158,
-      "md5": "15981061d1"
+      "md5": "4f573abff6"
     },
     {
       "name": "Cluster",
@@ -99,7 +99,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 8,
-      "md5": "a6f6bcde7d"
+      "md5": "d56822f4de"
     }
   ],
   "labelField": "Cluster",
@@ -136,5 +136,5 @@
   "shortLabel": "LungCancer",
   "geneLabel": "MIRNA",
   "clusterField": "Cluster",
-  "md5": "5ddf9861a5"
+  "md5": "e45695fcf3"
 }

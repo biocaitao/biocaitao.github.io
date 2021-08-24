@@ -1,0 +1,21 @@
+{
+  "name": "PBMCs",
+  "shortLabel": "PBMCs",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "Cluster"
+  ],
+  "geneLabel": "MIRNA",
+  "quickGenesFile": "quickGenes.csv",
+  "coords": [
+    {
+      "file": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/tsne.coords.tsv",
+      "shortLabel": "Seurat tsne"
+    }
+  ],
+  "inDir": ""
+}

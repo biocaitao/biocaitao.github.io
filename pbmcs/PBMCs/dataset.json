@@ -1,0 +1,147 @@
+{
+  "fileVersions": {
+    "inMeta": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/meta.tsv",
+      "md5": "fd03a442e5",
+      "size": 22085,
+      "mtime": "2021-08-24 04:50:44"
+    },
+    "outMeta": {
+      "fname": "pbmcs/PBMCs/meta.tsv",
+      "md5": "fd03a442e5",
+      "size": 22085,
+      "mtime": "2021-08-24 04:57:27"
+    },
+    "inMatrix": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/exprMatrix.tsv.gz",
+      "md5": "a7d8ff0853",
+      "size": 615078,
+      "mtime": "2021-08-24 04:51:26"
+    },
+    "outMatrix": {
+      "fname": "pbmcs/PBMCs/exprMatrix.tsv.gz",
+      "md5": "a7d8ff0853",
+      "size": 615078,
+      "mtime": "2021-08-24 04:57:27"
+    },
+    "conf": {
+      "fname": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/cellbrowser.conf",
+      "md5": "41431fc488",
+      "size": 386,
+      "mtime": "2021-08-24 04:53:11"
+    }
+  },
+  "sampleCount": 733,
+  "matrixWasFiltered": false,
+  "metaFields": [
+    {
+      "name": "Cell",
+      "label": "Cell",
+      "type": "uniqueString",
+      "maxSize": 12,
+      "diffValCount": 733,
+      "md5": "38fe5126df"
+    },
+    {
+      "name": "nCount_RNA",
+      "label": "nCount_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 647,
+      "md5": "7224df2773"
+    },
+    {
+      "name": "nFeature_RNA",
+      "label": "nFeature_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 82,
+      "md5": "95f3f04b98"
+    },
+    {
+      "name": "Cluster",
+      "label": "Cluster",
+      "type": "enum",
+      "valCounts": [
+        [
+          "CD16+Monocyte",
+          187
+        ],
+        [
+          "CD4+T",
+          146
+        ],
+        [
+          "CD14+Monocyte",
+          130
+        ],
+        [
+          "NK",
+          103
+        ],
+        [
+          "B",
+          98
+        ],
+        [
+          "CD8+T",
+          69
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 6,
+      "md5": "4f46385ea5"
+    }
+  ],
+  "matrixArrType": "Float32",
+  "labelField": "Cluster",
+  "coords": [
+    {
+      "name": "coords_0",
+      "shortLabel": "Seurat tsne",
+      "md5": "692119e756",
+      "minX": 0,
+      "maxX": 65535,
+      "minY": 0,
+      "maxY": 65535,
+      "type": "Uint16",
+      "textFname": "Seurat_tsne.coords.tsv.gz",
+      "labelMd5": "d41d8cd98f"
+    }
+  ],
+  "hasFiles": [
+    "datasetDesc"
+  ],
+  "markers": [],
+  "quickGenes": [
+    [
+      "miR-223-3p"
+    ],
+    [
+      "miR-150-5p"
+    ],
+    [
+      "miR-181b-5p"
+    ],
+    [
+      "miR-181a-5p"
+    ],
+    [
+      "miR-873-5p"
+    ],
+    [
+      "miR-151a-5p"
+    ],
+    [
+      "miR-151b"
+    ],
+    [
+      "miR-125a-5p"
+    ]
+  ],
+  "name": "PBMCs",
+  "shortLabel": "PBMCs",
+  "geneLabel": "MIRNA",
+  "clusterField": "Cluster",
+  "md5": "8fcd28bea9"
+}

@@ -1,0 +1,6 @@
+{
+  "coordFiles": [
+    "Seurat_tsne.coords.tsv.gz"
+  ],
+  "matrixFile": "pbmcs/PBMCs/exprMatrix.tsv.gz"
+}

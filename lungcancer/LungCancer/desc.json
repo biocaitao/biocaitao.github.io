@@ -2,5 +2,5 @@
   "coordFiles": [
     "Seurat_tsne.coords.tsv.gz"
   ],
-  "matrixFile": "lungcancer/LungCancer/exprMatrix.tsv.gz"
+  "matrixFile": "/home/cait/data/CaiT/sRNA/LungCancer/cellbrowser/test/lungcancer/LungCancer/exprMatrix.tsv.gz"
 }

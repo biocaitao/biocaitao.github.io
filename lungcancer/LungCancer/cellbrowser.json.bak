@@ -11,7 +11,7 @@
   ],
   "coords": [
     {
-      "file": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/tsne.coords.tsv",
+      "file": "/home/cait/data/CaiT/sRNA/LungCancer/cellbrowser/test/tsne.coords.tsv",
       "shortLabel": "Seurat tsne"
     }
   ],
@@ -22,5 +22,5 @@
       "fontSize": "5px"
     }
   },
-  "inDir": ""
+  "inDir": "/home/cait/data/CaiT/sRNA/LungCancer/cellbrowser/test"
 }

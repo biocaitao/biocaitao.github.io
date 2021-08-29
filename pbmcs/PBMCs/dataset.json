@@ -10,7 +10,7 @@
       "fname": "pbmcs/PBMCs/meta.tsv",
       "md5": "fd03a442e5",
       "size": 22085,
-      "mtime": "2021-08-24 04:57:27"
+      "mtime": "2021-08-29 04:40:20"
     },
     "inMatrix": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/exprMatrix.tsv.gz",
@@ -22,7 +22,7 @@
       "fname": "pbmcs/PBMCs/exprMatrix.tsv.gz",
       "md5": "a7d8ff0853",
       "size": 615078,
-      "mtime": "2021-08-24 04:57:27"
+      "mtime": "2021-08-29 04:40:20"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/cellbrowser.conf",
@@ -40,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 12,
       "diffValCount": 733,
-      "md5": "38fe5126df"
+      "md5": "7adb634f95"
     },
     {
       "name": "nCount_RNA",
@@ -48,7 +48,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 647,
-      "md5": "7224df2773"
+      "md5": "d81d3818f1"
     },
     {
       "name": "nFeature_RNA",
@@ -56,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 82,
-      "md5": "95f3f04b98"
+      "md5": "bedaacdc08"
     },
     {
       "name": "Cluster",
@@ -90,7 +90,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 6,
-      "md5": "4f46385ea5"
+      "md5": "3d3fd6562f"
     }
   ],
   "matrixArrType": "Float32",

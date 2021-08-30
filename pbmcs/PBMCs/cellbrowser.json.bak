@@ -11,6 +11,7 @@
   ],
   "geneLabel": "MIRNA",
   "quickGenesFile": "quickGenes.csv",
+  "markers": [],
   "coords": [
     {
       "file": "/ddn/CaiT/CaiT/sRNA/PBMC/2020_11_26/cellbrowser/tsne.coords.tsv",

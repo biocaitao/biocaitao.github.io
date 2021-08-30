@@ -1,4 +1,7 @@
 {
+  "title": "PBMCs",
+  "abstract": "miRNA expression dataset for PBMCs subpopulations\n",
+  "inDir": "",
   "coordFiles": [
     "Seurat_tsne.coords.tsv.gz"
   ],

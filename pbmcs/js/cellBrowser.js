@@ -7156,9 +7156,9 @@ var cellbrowser = function() {
         renderer.setupMouse();
         $(window).resize(onWindowResize);
 
-        renderer.onLabelClick = onClusterNameClick;
-        renderer.onLabelHover = onClusterNameHover;
-        renderer.onNoLabelHover = onNoClusterNameHover;
+//        renderer.onLabelClick = onClusterNameClick;
+//        renderer.onLabelHover = onClusterNameHover;
+//        renderer.onNoLabelHover = onNoClusterNameHover;
         renderer.onCellClick = onCellClickOrHover;
         renderer.onCellHover = onCellClickOrHover;
         renderer.onNoCellHover = clearMetaAndGene;

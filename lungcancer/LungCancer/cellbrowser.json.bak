@@ -11,7 +11,7 @@
   ],
   "coords": [
     {
-      "file": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/tsne.coords.tsv",
+      "file": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/tsne.coords.tsv",
       "shortLabel": "Seurat tsne"
     }
   ],
@@ -19,7 +19,7 @@
   "quickGenesFile": "quickGenes.csv",
   "markers": [
     {
-      "file": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/celltype3_markers.txt",
+      "file": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/celltype4_markers.txt",
       "shortLabel": "Cluster-specific markers"
     }
   ],

@@ -1,37 +1,37 @@
 {
   "fileVersions": {
     "inMeta": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/meta.tsv",
-      "md5": "c70a77bdeb",
-      "size": 332252,
-      "mtime": "2021-08-30 08:20:39"
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/meta.tsv",
+      "md5": "d3886cfdb2",
+      "size": 462215,
+      "mtime": "2021-12-29 06:59:29"
     },
     "outMeta": {
       "fname": "lungcancer/LungCancer/meta.tsv",
-      "md5": "c70a77bdeb",
-      "size": 332252,
-      "mtime": "2021-08-30 08:32:03"
+      "md5": "d3886cfdb2",
+      "size": 462215,
+      "mtime": "2021-12-29 07:16:05"
     },
     "inMatrix": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/exprMatrix.tsv.gz",
-      "md5": "acff25c443",
-      "size": 4135497,
-      "mtime": "2021-08-20 07:44:49"
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/exprMatrix.tsv.gz",
+      "md5": "4f3cf09f07",
+      "size": 18373350,
+      "mtime": "2021-12-29 07:04:35"
     },
     "outMatrix": {
       "fname": "lungcancer/LungCancer/exprMatrix.tsv.gz",
-      "md5": "acff25c443",
-      "size": 4135497,
-      "mtime": "2021-08-30 08:32:03"
+      "md5": "4f3cf09f07",
+      "size": 18373350,
+      "mtime": "2021-12-29 07:16:06"
     },
     "conf": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/cellbrowser.conf",
-      "md5": "f25aa5abd5",
+      "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/cellbrowser.conf",
+      "md5": "81a0ab6ad6",
       "size": 537,
-      "mtime": "2021-08-30 08:22:31"
+      "mtime": "2021-12-29 07:12:40"
     }
   },
-  "sampleCount": 6292,
+  "sampleCount": 8786,
   "matrixWasFiltered": false,
   "metaFields": [
     {
@@ -39,24 +39,24 @@
       "label": "Cell",
       "type": "uniqueString",
       "maxSize": 16,
-      "diffValCount": 6292,
-      "md5": "82aca08cb7"
+      "diffValCount": 8786,
+      "md5": "644b60e902"
     },
     {
       "name": "nCount_RNA",
       "label": "nCount_RNA",
       "arrType": "float32",
       "type": "int",
-      "diffValCount": 2188,
-      "md5": "37aaa3d4b5"
+      "diffValCount": 3110,
+      "md5": "71016bf55d"
     },
     {
       "name": "nFeature_RNA",
       "label": "nFeature_RNA",
       "arrType": "float32",
       "type": "int",
-      "diffValCount": 158,
-      "md5": "81f156cb9f"
+      "diffValCount": 248,
+      "md5": "ec3b4ac250"
     },
     {
       "name": "Cluster",
@@ -64,63 +64,49 @@
       "type": "enum",
       "valCounts": [
         [
-          "T/B",
-          3694
+          "T",
+          4041
         ],
         [
           "Tumour",
-          997
-        ],
-        [
-          "NK",
-          724
+          1630
         ],
         [
           "Myeloid",
-          395
+          686
         ],
         [
-          "Imm1268a+",
-          260
+          "B",
+          639
+        ],
+        [
+          "NK",
+          532
         ],
         [
           "Fibroblast",
-          121
+          512
         ],
         [
-          "Epithelial",
-          65
+          "Immune1268a",
+          363
         ],
         [
           "Endothelial",
-          36
+          178
+        ],
+        [
+          "Epithelial",
+          110
+        ],
+        [
+          "Mast",
+          95
         ]
       ],
       "arrType": "Uint8",
-      "diffValCount": 8,
-      "md5": "917209a8e3"
-    },
-    {
-      "name": "Patient",
-      "label": "Patient",
-      "type": "enum",
-      "valCounts": [
-        [
-          "patient2",
-          2455
-        ],
-        [
-          "patient3",
-          2130
-        ],
-        [
-          "patient1",
-          1707
-        ]
-      ],
-      "arrType": "Uint8",
-      "diffValCount": 3,
-      "md5": "0117e7b429"
+      "diffValCount": 10,
+      "md5": "c46ddfcefc"
     },
     {
       "name": "SampleOrigin",
@@ -129,16 +115,46 @@
       "valCounts": [
         [
           "Tumour_Tissue",
-          4515
+          7378
         ],
         [
           "Normal_Tissue",
-          1777
+          1408
         ]
       ],
       "arrType": "Uint8",
       "diffValCount": 2,
-      "md5": "66bd3b0b3d"
+      "md5": "678dbcd1dd"
+    },
+    {
+      "name": "Patient",
+      "label": "Patient",
+      "type": "enum",
+      "valCounts": [
+        [
+          "patient2",
+          2130
+        ],
+        [
+          "patient9",
+          1886
+        ],
+        [
+          "patient8",
+          1703
+        ],
+        [
+          "patient1",
+          1674
+        ],
+        [
+          "patient7",
+          1393
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 5,
+      "md5": "6eca068a67"
     }
   ],
   "matrixArrType": "Float32",
@@ -147,11 +163,11 @@
     {
       "name": "coords_0",
       "shortLabel": "Seurat tsne",
-      "md5": "6bd1c56f9e",
+      "md5": "80e48d6495",
       "minX": 0,
       "maxX": 65535,
       "minY": 0,
-      "maxY": 65534,
+      "maxY": 65535,
       "type": "Uint16",
       "textFname": "Seurat_tsne.coords.tsv.gz",
       "labelMd5": "d41d8cd98f"
@@ -161,59 +177,59 @@
     "datasetDesc"
   ],
   "topMarkers": {
-    "T/B": [
-      "miR-150-5p",
-      "miR-155-5p",
-      "miR-122-5p",
-      "miR-142-5p",
-      "miR-451a"
+    "Tumour": [
+      "hsa-miR-205-5p",
+      "hsa-miR-200a-3p",
+      "hsa-miR-200b-3p",
+      "hsa-miR-200c-3p",
+      "hsa-miR-141-3p"
+    ],
+    "B": [
+      "hsa-miR-451a",
+      "hsa-miR-486-5p",
+      "hsa-miR-144-3p"
     ],
     "NK": [
-      "miR-873-5p",
-      "miR-363-3p",
-      "miR-20b-5p",
-      "miR-4772-3p",
-      "miR-181a-5p"
-    ],
-    "Tumour": [
-      "miR-135a-5p",
-      "miR-375-3p",
-      "miR-200c-3p",
-      "miR-141-3p",
-      "miR-200a-3p"
+      "hsa-miR-363-3p",
+      "hsa-miR-20b-5p"
     ],
     "Myeloid": [
-      "miR-223-5p",
-      "miR-511-5p",
-      "miR-223-3p",
-      "miR-378a-3p",
-      "miR-378a-5p"
-    ],
-    "Imm1268a+": [
-      "miR-1268b",
-      "miR-1268a",
-      "miR-362-5p"
+      "hsa-miR-223-3p",
+      "hsa-miR-193a-5p",
+      "hsa-miR-362-5p",
+      "hsa-miR-338-3p"
     ],
     "Fibroblast": [
-      "miR-214-5p",
-      "miR-337-3p",
-      "miR-195-5p",
-      "miR-199b-5p",
-      "miR-199a-5p"
+      "hsa-miR-199a-5p",
+      "hsa-miR-145-5p",
+      "hsa-miR-497-5p",
+      "hsa-miR-218-5p",
+      "hsa-miR-199b-5p"
     ],
-    "Epithelial": [
-      "miR-34b-3p",
-      "miR-4423-5p",
-      "miR-548i",
-      "miR-34c-3p",
-      "miR-92b-5p"
+    "Immune1268a": [
+      "hsa-miR-1268b",
+      "hsa-miR-1268a"
     ],
     "Endothelial": [
-      "miR-584-5p",
-      "miR-126-5p",
-      "miR-126-3p",
-      "miR-99b-5p",
-      "let-7b-5p"
+      "hsa-miR-126-3p",
+      "hsa-miR-126-5p",
+      "hsa-miR-10b-5p",
+      "hsa-miR-139-5p",
+      "hsa-let-7c-5p"
+    ],
+    "Epithelial": [
+      "hsa-miR-34b-5p",
+      "hsa-miR-34c-5p",
+      "hsa-miR-92b-3p",
+      "hsa-miR-34b-3p",
+      "hsa-miR-200c-3p"
+    ],
+    "Mast": [
+      "hsa-miR-10a-5p",
+      "hsa-miR-148a-3p",
+      "hsa-miR-202-5p",
+      "hsa-miR-340-5p",
+      "hsa-miR-338-3p"
     ]
   },
   "markers": [
@@ -258,11 +274,14 @@
     ],
     [
       "miR-1268b"
+    ],
+    [
+      "miR-451a"
     ]
   ],
   "name": "LungCancer",
   "shortLabel": "LungCancer",
   "geneLabel": "MIRNA",
   "clusterField": "Cluster",
-  "md5": "b9e1678933"
+  "md5": "d14eebc66a"
 }

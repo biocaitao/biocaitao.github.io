@@ -10,19 +10,19 @@
       "fname": "lungcancer/LungCancer/meta.tsv",
       "md5": "932dad4c81",
       "size": 506205,
-      "mtime": "2022-01-14 08:16:08"
+      "mtime": "2022-01-14 08:28:28"
     },
     "inMatrix": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/exprMatrix.tsv.gz",
-      "md5": "0acfa99d0b",
-      "size": 7312084,
-      "mtime": "2022-01-14 08:14:10"
+      "md5": "4c5fa3a967",
+      "size": 7311301,
+      "mtime": "2022-01-14 08:27:30"
     },
     "outMatrix": {
       "fname": "lungcancer/LungCancer/exprMatrix.tsv.gz",
-      "md5": "0acfa99d0b",
-      "size": 7312084,
-      "mtime": "2022-01-14 08:16:09"
+      "md5": "4c5fa3a967",
+      "size": 7311301,
+      "mtime": "2022-01-14 08:28:29"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/cellbrowser.conf",
@@ -40,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 17,
       "diffValCount": 9533,
-      "md5": "02107092b6"
+      "md5": "2148e36038"
     },
     {
       "name": "nCount_RNA",
@@ -48,7 +48,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 3322,
-      "md5": "7c06589140"
+      "md5": "857b5f1266"
     },
     {
       "name": "nFeature_RNA",
@@ -56,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 248,
-      "md5": "76a9a22b45"
+      "md5": "e842b86c34"
     },
     {
       "name": "Cluster",
@@ -106,7 +106,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 10,
-      "md5": "b98bebc342"
+      "md5": "461c50a939"
     },
     {
       "name": "SampleOrigin",
@@ -124,7 +124,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 2,
-      "md5": "c747429f52"
+      "md5": "008fde9f5c"
     },
     {
       "name": "patient",
@@ -154,7 +154,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 5,
-      "md5": "6d25f1150b"
+      "md5": "f117a992f3"
     }
   ],
   "matrixArrType": "Float32",
@@ -242,10 +242,50 @@
       "shortLabel": "Cluster-specific markers"
     }
   ],
-  "quickGenes": [],
+  "quickGenes": [
+    [
+      "miR-142-3p"
+    ],
+    [
+      "miR-223-3p"
+    ],
+    [
+      "miR-150-5p"
+    ],
+    [
+      "miR-135b-5p"
+    ],
+    [
+      "miR-34b-5p"
+    ],
+    [
+      "miR-34a-5p"
+    ],
+    [
+      "miR-199a-5p"
+    ],
+    [
+      "miR-126-5p"
+    ],
+    [
+      "miR-873-5p"
+    ],
+    [
+      "miR-181a-5p"
+    ],
+    [
+      "miR-1268a"
+    ],
+    [
+      "miR-1268b"
+    ],
+    [
+      "miR-451a"
+    ]
+  ],
   "name": "LungCancer",
   "shortLabel": "LungCancer",
   "geneLabel": "MIRNA",
   "clusterField": "Cluster",
-  "md5": "32d48b88b5"
+  "md5": "469df821dc"
 }

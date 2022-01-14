@@ -6,11 +6,11 @@
     {
       "shortLabel": "LungCancer",
       "name": "LungCancer",
-      "md5": "d14eebc66a",
+      "md5": "32d48b88b5",
       "hasFiles": [
         "datasetDesc"
       ],
-      "sampleCount": 8786
+      "sampleCount": 9533
     }
   ]
 }

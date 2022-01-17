@@ -10,7 +10,7 @@
       "fname": "lungcancer/LungCancer/meta.tsv",
       "md5": "2e3ec394ac",
       "size": 507106,
-      "mtime": "2022-01-17 01:55:45"
+      "mtime": "2022-01-17 02:13:46"
     },
     "inMatrix": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/exprMatrix.tsv.gz",
@@ -22,7 +22,7 @@
       "fname": "lungcancer/LungCancer/exprMatrix.tsv.gz",
       "md5": "fb196cb4cc",
       "size": 7311301,
-      "mtime": "2022-01-17 01:55:45"
+      "mtime": "2022-01-17 02:13:46"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/cellbrowser.conf",
@@ -40,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 17,
       "diffValCount": 9533,
-      "md5": "6a82bf06c2"
+      "md5": "c0fd038e61"
     },
     {
       "name": "nCount_RNA",
@@ -48,7 +48,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 3322,
-      "md5": "36973b60aa"
+      "md5": "a8533d30ba"
     },
     {
       "name": "nFeature_RNA",
@@ -56,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 248,
-      "md5": "fc18b08687"
+      "md5": "04a586f532"
     },
     {
       "name": "Cluster",
@@ -106,7 +106,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 10,
-      "md5": "84a6f9fa53"
+      "md5": "2440f5c444"
     },
     {
       "name": "SampleOrigin",
@@ -124,7 +124,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 2,
-      "md5": "fac231beb0"
+      "md5": "7400750551"
     },
     {
       "name": "Patients",
@@ -154,7 +154,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 5,
-      "md5": "388fc2550c"
+      "md5": "8c3ce17fbd"
     }
   ],
   "matrixArrType": "Float32",
@@ -178,62 +178,62 @@
   ],
   "topMarkers": {
     "Tumour": [
-      "hsa-miR-375-3p",
-      "hsa-miR-135b-5p",
-      "hsa-miR-135a-5p",
-      "hsa-miR-200a-3p",
-      "hsa-miR-200c-3p"
+      "miR-375-3p",
+      "miR-135b-5p",
+      "miR-135a-5p",
+      "miR-200a-3p",
+      "miR-200c-3p"
     ],
     "B": [
-      "hsa-miR-486-5p",
-      "hsa-miR-144-3p",
-      "hsa-miR-451a"
+      "miR-486-5p",
+      "miR-144-3p",
+      "miR-451a"
     ],
     "NK": [
-      "hsa-miR-363-3p",
-      "hsa-miR-20b-5p",
-      "hsa-miR-873-5p",
-      "hsa-miR-4772-3p",
-      "hsa-miR-181a-2-3p"
+      "miR-363-3p",
+      "miR-20b-5p",
+      "miR-873-5p",
+      "miR-4772-3p",
+      "miR-181a-2-3p"
     ],
     "Myeloid": [
-      "hsa-miR-223-3p",
-      "hsa-miR-511-5p",
-      "hsa-miR-193a-5p",
-      "hsa-miR-362-5p",
-      "hsa-miR-3613-5p"
+      "miR-223-3p",
+      "miR-511-5p",
+      "miR-193a-5p",
+      "miR-362-5p",
+      "miR-3613-5p"
     ],
     "Fibroblast": [
-      "hsa-miR-199a-3p",
-      "hsa-miR-199a-5p",
-      "hsa-miR-143-3p",
-      "hsa-miR-145-5p",
-      "hsa-miR-497-5p"
+      "miR-199a-3p",
+      "miR-199a-5p",
+      "miR-143-3p",
+      "miR-145-5p",
+      "miR-497-5p"
     ],
     "Immune1268a": [
-      "hsa-miR-1268a",
-      "hsa-miR-1268b"
+      "miR-1268a",
+      "miR-1268b"
     ],
     "Endothelial": [
-      "hsa-miR-126-3p",
-      "hsa-miR-126-5p",
-      "hsa-miR-139-5p",
-      "hsa-miR-10b-5p",
-      "hsa-miR-30a-5p"
+      "miR-126-3p",
+      "miR-126-5p",
+      "miR-139-5p",
+      "miR-10b-5p",
+      "miR-30a-5p"
     ],
     "Epithelial": [
-      "hsa-miR-34b-5p",
-      "hsa-miR-34c-5p",
-      "hsa-miR-34b-3p",
-      "hsa-miR-92b-3p",
-      "hsa-miR-190b-5p"
+      "miR-34b-5p",
+      "miR-34c-5p",
+      "miR-34b-3p",
+      "miR-92b-3p",
+      "miR-190b-5p"
     ],
     "Mast": [
-      "hsa-miR-202-5p",
-      "hsa-miR-10a-5p",
-      "hsa-miR-551b-3p",
-      "hsa-miR-340-5p",
-      "hsa-miR-4508"
+      "miR-202-5p",
+      "miR-10a-5p",
+      "miR-551b-3p",
+      "miR-340-5p",
+      "miR-4508"
     ]
   },
   "markers": [

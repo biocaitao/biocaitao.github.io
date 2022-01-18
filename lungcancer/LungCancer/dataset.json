@@ -2,15 +2,15 @@
   "fileVersions": {
     "inMeta": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/meta.tsv",
-      "md5": "2e3ec394ac",
-      "size": 507106,
-      "mtime": "2022-01-17 01:53:41"
+      "md5": "316ea78654",
+      "size": 516562,
+      "mtime": "2022-01-18 02:50:14"
     },
     "outMeta": {
       "fname": "lungcancer/LungCancer/meta.tsv",
-      "md5": "2e3ec394ac",
-      "size": 507106,
-      "mtime": "2022-01-17 02:13:46"
+      "md5": "316ea78654",
+      "size": 516562,
+      "mtime": "2022-01-18 02:51:35"
     },
     "inMatrix": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/exprMatrix.tsv.gz",
@@ -22,7 +22,7 @@
       "fname": "lungcancer/LungCancer/exprMatrix.tsv.gz",
       "md5": "fb196cb4cc",
       "size": 7311301,
-      "mtime": "2022-01-17 02:13:46"
+      "mtime": "2022-01-18 02:51:36"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/LungCancer/cellbrowser/test/new/cellbrowser.conf",
@@ -40,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 17,
       "diffValCount": 9533,
-      "md5": "c0fd038e61"
+      "md5": "6d9312fe08"
     },
     {
       "name": "nCount_RNA",
@@ -48,7 +48,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 3322,
-      "md5": "a8533d30ba"
+      "md5": "c537a8c5bc"
     },
     {
       "name": "nFeature_RNA",
@@ -56,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 248,
-      "md5": "04a586f532"
+      "md5": "cc4c4827fa"
     },
     {
       "name": "Cluster",
@@ -64,8 +64,8 @@
       "type": "enum",
       "valCounts": [
         [
-          "T",
-          4008
+          "T/B",
+          4728
         ],
         [
           "Tumour",
@@ -74,10 +74,6 @@
         [
           "Myeloid",
           824
-        ],
-        [
-          "B",
-          720
         ],
         [
           "NK",
@@ -105,8 +101,8 @@
         ]
       ],
       "arrType": "Uint8",
-      "diffValCount": 10,
-      "md5": "2440f5c444"
+      "diffValCount": 9,
+      "md5": "29585d6b26"
     },
     {
       "name": "SampleOrigin",
@@ -124,7 +120,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 2,
-      "md5": "7400750551"
+      "md5": "fff559fea8"
     },
     {
       "name": "Patients",
@@ -154,7 +150,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 5,
-      "md5": "8c3ce17fbd"
+      "md5": "74cb5b6ade"
     }
   ],
   "matrixArrType": "Float32",
@@ -177,17 +173,16 @@
     "datasetDesc"
   ],
   "topMarkers": {
+    "T/B": [
+      "miR-150-5p",
+      "miR-122-5p"
+    ],
     "Tumour": [
       "miR-375-3p",
       "miR-135b-5p",
       "miR-135a-5p",
       "miR-200a-3p",
       "miR-200c-3p"
-    ],
-    "B": [
-      "miR-486-5p",
-      "miR-144-3p",
-      "miR-451a"
     ],
     "NK": [
       "miR-363-3p",
@@ -281,11 +276,14 @@
     ],
     [
       "miR-451a"
+    ],
+    [
+      "miR-151b"
     ]
   ],
   "name": "LungCancer",
   "shortLabel": "LungCancer",
   "geneLabel": "MIRNA",
   "clusterField": "Cluster",
-  "md5": "121b7d121f"
+  "md5": "82cf222961"
 }

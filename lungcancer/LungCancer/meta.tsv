@@ -723,11 +723,11 @@ GTGAAATCTTGG_1_1	1035	101	Tumour	Tumour_Tissue	patient1
 GTGAAATGACTC_1_1	854	89	T/B	Normal_Tissue	patient1
 GTGAAATGTCCT_1_1	982	96	Epithelial	Normal_Tissue	patient1
 GTGGCCAACGCT_1_1	1407	102	T/B	Normal_Tissue	patient1
-GTGGCCACAGGA_1_1	737	92	Tumour	Normal_Tissue	patient1
+GTGGCCACAGGA_1_1	737	92	Alveolar	Normal_Tissue	patient1
 GTGGCCACTTCG_1_1	671	76	T/B	Normal_Tissue	patient1
 GTGGCCAGTCTT_1_1	918	73	T/B	Normal_Tissue	patient1
 GTGGCCATTCAT_1_1	641	65	T/B	Normal_Tissue	patient1
-GTGGCCCAATCC_1_1	967	103	Tumour	Normal_Tissue	patient1
+GTGGCCCAATCC_1_1	967	103	Alveolar	Normal_Tissue	patient1
 GTGGCCCATCCT_1_1	931	86	NK	Normal_Tissue	patient1
 GTGGCCCTACGA_1_1	858	77	T/B	Normal_Tissue	patient1
 GTGGCCGAATGA_1_1	3798	174	Tumour	Tumour_Tissue	patient1
@@ -767,7 +767,7 @@ TAACGTGAACTG_1_1	832	83	T/B	Normal_Tissue	patient1
 TAACGTGTATGC_1_1	1550	113	Epithelial	Normal_Tissue	patient1
 TAACGTGTCTAT_1_1	1361	99	T/B	Tumour_Tissue	patient1
 TAACGTGTTCTC_1_1	1444	92	T/B	Tumour_Tissue	patient1
-TAACGTTCAGCT_1_1	1375	107	Tumour	Normal_Tissue	patient1
+TAACGTTCAGCT_1_1	1375	107	Alveolar	Normal_Tissue	patient1
 TAACGTTCCATT_1_1	1045	87	Immune1268a	Normal_Tissue	patient1
 TAACGTTCGCTA_1_1	822	90	NK	Normal_Tissue	patient1
 TAACGTTGACTC_1_1	811	81	T/B	Normal_Tissue	patient1
@@ -792,7 +792,7 @@ TACAGCAGAACA_1_1	870	72	T/B	Normal_Tissue	patient1
 TACAGCAGACGG_1_1	1251	88	T/B	Normal_Tissue	patient1
 TACAGCAGCCAA_1_1	716	81	T/B	Tumour_Tissue	patient1
 TACAGCAGTCTT_1_1	792	70	T/B	Normal_Tissue	patient1
-TACAGCCAACAT_1_1	788	95	Tumour	Normal_Tissue	patient1
+TACAGCCAACAT_1_1	788	95	Alveolar	Normal_Tissue	patient1
 TACAGCCAATCC_1_1	1315	87	T/B	Normal_Tissue	patient1
 TACAGCCAGATT_1_1	3347	131	Myeloid	Normal_Tissue	patient1
 TACAGCCCTCAA_1_1	1175	101	Myeloid	Normal_Tissue	patient1
@@ -946,7 +946,7 @@ TTCTGAAACGCT_1_1	798	88	T/B	Normal_Tissue	patient1
 TTCTGAAGTCTT_1_1	1346	90	T/B	Normal_Tissue	patient1
 TTCTGACAACAT_1_1	935	80	T/B	Normal_Tissue	patient1
 TTCTGACAGATT_1_1	596	65	T/B	Normal_Tissue	patient1
-TTCTGACCTCAA_1_1	1770	123	Tumour	Normal_Tissue	patient1
+TTCTGACCTCAA_1_1	1770	123	Alveolar	Normal_Tissue	patient1
 TTCTGATGGTAT_1_1	968	88	T/B	Normal_Tissue	patient1
 TTCTGATGTGTC_1_1	960	85	T/B	Normal_Tissue	patient1
 TTCTGATGTTCC_1_1	840	80	T/B	Normal_Tissue	patient1
@@ -1337,7 +1337,7 @@ CTCAGAAGTGAC_2_1	1072	83	T/B	Tumour_Tissue	patient1
 CTCAGACATTGA_2_1	2688	117	Tumour	Tumour_Tissue	patient1
 CTCAGACGAAGT_2_1	559	78	Immune1268a	Tumour_Tissue	patient1
 CTCAGAGAAGCC_2_1	2568	116	Tumour	Tumour_Tissue	patient1
-CTCAGATCCTGC_2_1	1355	103	Tumour	Tumour_Tissue	patient1
+CTCAGATCCTGC_2_1	1355	103	Alveolar	Tumour_Tissue	patient1
 CTCAGATCTTGG_2_1	1897	94	Tumour	Tumour_Tissue	patient1
 CTCAGATGTGTC_2_1	1004	82	T/B	Tumour_Tissue	patient1
 CTCAGATGTTCC_2_1	901	84	Immune1268a	Tumour_Tissue	patient1
@@ -1345,7 +1345,7 @@ GAAGCTAACGCT_2_1	916	76	T/B	Tumour_Tissue	patient1
 GAAGCTACGGAT_2_1	1777	116	Immune1268a	Tumour_Tissue	patient1
 GAAGCTATTCAT_2_1	852	76	T/B	Tumour_Tissue	patient1
 GAAGCTCACTGT_2_1	747	67	T/B	Tumour_Tissue	patient1
-GAAGCTCTAACT_2_1	1484	102	Tumour	Tumour_Tissue	patient1
+GAAGCTCTAACT_2_1	1484	102	Alveolar	Tumour_Tissue	patient1
 GAAGCTGCGATC_2_1	633	66	T/B	Tumour_Tissue	patient1
 GAAGCTGTTCTC_2_1	627	74	Epithelial	Tumour_Tissue	patient1
 GAAGCTTAAGGT_2_1	609	65	T/B	Tumour_Tissue	patient1
@@ -1510,7 +1510,7 @@ GTCCGCTACTCG_2_1	789	79	Epithelial	Tumour_Tissue	patient1
 GTCCGCTGTGTC_2_1	2143	101	Tumour	Tumour_Tissue	patient1
 GTGAAAATGTGG_2_1	1822	109	Tumour	Tumour_Tissue	patient1
 GTGAAACAGATT_2_1	1243	79	Myeloid	Tumour_Tissue	patient1
-GTGAAACATTGA_2_1	676	75	Tumour	Tumour_Tissue	patient1
+GTGAAACATTGA_2_1	676	75	Alveolar	Tumour_Tissue	patient1
 GTGAAACCTCAA_2_1	1349	98	Myeloid	Tumour_Tissue	patient1
 GTGAAACGTTAG_2_1	665	66	T/B	Tumour_Tissue	patient1
 GTGAAAGTGGTT_2_1	2746	123	Tumour	Tumour_Tissue	patient1
@@ -1593,7 +1593,7 @@ TCCCGACATTGA_2_1	3858	129	Tumour	Tumour_Tissue	patient1
 TCCCGACCAGTC_2_1	1710	115	Tumour	Tumour_Tissue	patient1
 TCCCGACTACGA_2_1	697	67	T/B	Tumour_Tissue	patient1
 TCCCGAGAAGCC_2_1	797	81	Immune1268a	Tumour_Tissue	patient1
-TCCCGAGCGTGA_2_1	1553	103	Tumour	Tumour_Tissue	patient1
+TCCCGAGCGTGA_2_1	1553	103	Alveolar	Tumour_Tissue	patient1
 TCCCGAGTGGTT_2_1	3141	130	Tumour	Tumour_Tissue	patient1
 TCCCGAGTTCTC_2_1	882	78	T/B	Tumour_Tissue	patient1
 TCCCGATCCATT_2_1	3477	135	Tumour	Tumour_Tissue	patient1
@@ -1718,7 +1718,7 @@ AACGGTGTGGTT_1_2	2977	138	Tumour	Tumour_Tissue	patient2
 AACGGTTAAGGT_1_2	213	53	T/B	Tumour_Tissue	patient2
 AACGGTTACTCG_1_2	278	57	T/B	Tumour_Tissue	patient2
 AACGGTTCGCAC_1_2	760	80	T/B	Tumour_Tissue	patient2
-AACGGTTCGCTA_1_2	2092	122	Tumour	Tumour_Tissue	patient2
+AACGGTTCGCTA_1_2	2092	122	Alveolar	Tumour_Tissue	patient2
 AACGGTTGGTAT_1_2	1525	112	Myeloid	Tumour_Tissue	patient2
 AACGGTTGTCCT_1_2	3146	132	Tumour	Tumour_Tissue	patient2
 AACGGTTGTGTC_1_2	1304	86	T/B	Tumour_Tissue	patient2
@@ -1753,7 +1753,7 @@ ACTAAGTGTTCC_1_2	290	58	T/B	Tumour_Tissue	patient2
 ACTAAGTTGTCG_1_2	971	71	T/B	Tumour_Tissue	patient2
 ACTGATACAGGA_1_2	513	61	T/B	Tumour_Tissue	patient2
 ACTGATACCTTA_1_2	2448	143	Endothelial	Tumour_Tissue	patient2
-ACTGATACTTCG_1_2	3299	137	Tumour	Tumour_Tissue	patient2
+ACTGATACTTCG_1_2	3299	137	Alveolar	Tumour_Tissue	patient2
 ACTGATAGAACA_1_2	1097	86	T/B	Tumour_Tissue	patient2
 ACTGATCAACAT_1_2	2280	126	Tumour	Tumour_Tissue	patient2
 ACTGATCCTCAA_1_2	1426	103	T/B	Tumour_Tissue	patient2
@@ -1761,7 +1761,7 @@ ACTGATCTAACT_1_2	978	74	T/B	Tumour_Tissue	patient2
 ACTGATCTACGA_1_2	3291	144	Tumour	Tumour_Tissue	patient2
 ACTGATCTCCTT_1_2	961	81	NK	Tumour_Tissue	patient2
 ACTGATGCGATC_1_2	784	75	T/B	Tumour_Tissue	patient2
-ACTGATGCGTGA_1_2	2180	120	Tumour	Tumour_Tissue	patient2
+ACTGATGCGTGA_1_2	2180	120	Alveolar	Tumour_Tissue	patient2
 ACTGATGCTGAT_1_2	323	61	T/B	Tumour_Tissue	patient2
 ACTGATGTATGC_1_2	1097	83	Immune1268a	Tumour_Tissue	patient2
 ACTGATTGACTC_1_2	1121	81	T/B	Tumour_Tissue	patient2
@@ -1811,7 +1811,7 @@ AGCGGCATTCAT_1_2	1070	87	Myeloid	Tumour_Tissue	patient2
 AGCGGCCAATCC_1_2	281	55	T/B	Tumour_Tissue	patient2
 AGCGGCCCTGTT_1_2	2416	122	Endothelial	Tumour_Tissue	patient2
 AGCGGCCGAAGT_1_2	256	49	T/B	Tumour_Tissue	patient2
-AGCGGCCGTTAG_1_2	2593	134	Tumour	Tumour_Tissue	patient2
+AGCGGCCGTTAG_1_2	2593	134	Alveolar	Tumour_Tissue	patient2
 AGCGGCCTACGA_1_2	528	76	T/B	Tumour_Tissue	patient2
 AGCGGCCTCCTT_1_2	885	78	Immune1268a	Tumour_Tissue	patient2
 AGCGGCGAACTG_1_2	1122	89	T/B	Tumour_Tissue	patient2
@@ -1901,7 +1901,7 @@ ATTCCTAAGTTC_1_2	227	51	T/B	Tumour_Tissue	patient2
 ATTCCTACCACC_1_2	251	52	T/B	Tumour_Tissue	patient2
 ATTCCTAGAACA_1_2	2402	128	Tumour	Tumour_Tissue	patient2
 ATTCCTAGTGAC_1_2	395	67	T/B	Tumour_Tissue	patient2
-ATTCCTCGAAGT_1_2	3024	133	Tumour	Tumour_Tissue	patient2
+ATTCCTCGAAGT_1_2	3024	133	Alveolar	Tumour_Tissue	patient2
 ATTCCTCGTTAG_1_2	1066	85	T/B	Tumour_Tissue	patient2
 ATTCCTCTCTTC_1_2	818	80	T/B	Tumour_Tissue	patient2
 ATTCCTGAAGCC_1_2	940	75	T/B	Tumour_Tissue	patient2
@@ -1918,7 +1918,7 @@ CAAAAGACCGAG_1_2	2486	121	Tumour	Tumour_Tissue	patient2
 CAAAAGAGCCAA_1_2	1237	106	Endothelial	Tumour_Tissue	patient2
 CAAAAGAGTCTT_1_2	1240	80	T/B	Tumour_Tissue	patient2
 CAAAAGATCTCT_1_2	1565	105	Myeloid	Tumour_Tissue	patient2
-CAAAAGCAATCC_1_2	2562	131	Tumour	Tumour_Tissue	patient2
+CAAAAGCAATCC_1_2	2562	131	Alveolar	Tumour_Tissue	patient2
 CAAAAGCACTGT_1_2	1058	83	T/B	Tumour_Tissue	patient2
 CAAAAGCAGGAG_1_2	2763	141	Tumour	Tumour_Tissue	patient2
 CAAAAGCATCCT_1_2	612	71	T/B	Tumour_Tissue	patient2
@@ -1930,19 +1930,19 @@ CAAAAGGTTCTC_1_2	1220	95	NK	Tumour_Tissue	patient2
 CAAAAGTACTCG_1_2	1471	107	Endothelial	Tumour_Tissue	patient2
 CAAAAGTCAGCT_1_2	1199	81	T/B	Tumour_Tissue	patient2
 CAAAAGTCCTGC_1_2	1236	93	T/B	Tumour_Tissue	patient2
-CAAAAGTCTTGG_1_2	2652	130	Tumour	Tumour_Tissue	patient2
+CAAAAGTCTTGG_1_2	2652	130	Alveolar	Tumour_Tissue	patient2
 CAAAAGTGCGTA_1_2	1329	86	T/B	Tumour_Tissue	patient2
 CAAAAGTGGTAT_1_2	3613	149	Tumour	Tumour_Tissue	patient2
 CAAAAGTTGTCG_1_2	831	87	T/B	Tumour_Tissue	patient2
 CAACTAACAGGA_1_2	863	72	T/B	Tumour_Tissue	patient2
 CAACTAACCGAG_1_2	311	62	T/B	Tumour_Tissue	patient2
-CAACTAAGTGAC_1_2	1881	113	Tumour	Tumour_Tissue	patient2
+CAACTAAGTGAC_1_2	1881	113	Alveolar	Tumour_Tissue	patient2
 CAACTAATCTCT_1_2	920	69	NK	Tumour_Tissue	patient2
 CAACTAATGCCA_1_2	3655	139	Tumour	Tumour_Tissue	patient2
-CAACTAATTCAT_1_2	1507	110	Tumour	Tumour_Tissue	patient2
+CAACTAATTCAT_1_2	1507	110	Alveolar	Tumour_Tissue	patient2
 CAACTACTCCTT_1_2	1059	74	T/B	Tumour_Tissue	patient2
 CAACTAGATTAG_1_2	2663	143	Tumour	Tumour_Tissue	patient2
-CAACTAGGCTCA_1_2	2758	138	Tumour	Tumour_Tissue	patient2
+CAACTAGGCTCA_1_2	2758	138	Alveolar	Tumour_Tissue	patient2
 CAACTAGTGAAG_1_2	936	86	T/B	Tumour_Tissue	patient2
 CACCGGAACGCT_1_2	1189	87	Myeloid	Tumour_Tissue	patient2
 CACCGGAATCTG_1_2	3135	141	Tumour	Tumour_Tissue	patient2
@@ -1951,7 +1951,7 @@ CACCGGAGACGG_1_2	2119	123	Tumour	Tumour_Tissue	patient2
 CACCGGAGCCAA_1_2	2483	128	Tumour	Tumour_Tissue	patient2
 CACCGGAGTGAC_1_2	3199	122	Fibroblast	Tumour_Tissue	patient2
 CACCGGATAGAG_1_2	877	74	Myeloid	Tumour_Tissue	patient2
-CACCGGATCTCT_1_2	2641	128	Tumour	Tumour_Tissue	patient2
+CACCGGATCTCT_1_2	2641	128	Alveolar	Tumour_Tissue	patient2
 CACCGGCAGATT_1_2	2192	121	Epithelial	Tumour_Tissue	patient2
 CACCGGCCAGTC_1_2	3072	126	Tumour	Tumour_Tissue	patient2
 CACCGGCCTCAA_1_2	1475	96	T/B	Tumour_Tissue	patient2
@@ -1966,7 +1966,7 @@ CACCGGTGTCCT_1_2	2643	134	Tumour	Tumour_Tissue	patient2
 CACCGGTTAGCC_1_2	1013	79	NK	Tumour_Tissue	patient2
 CACGATAAGTTC_1_2	3095	133	Tumour	Tumour_Tissue	patient2
 CACGATAATCTG_1_2	2793	138	Tumour	Tumour_Tissue	patient2
-CACGATACCACC_1_2	3018	144	Tumour	Tumour_Tissue	patient2
+CACGATACCACC_1_2	3018	144	Alveolar	Tumour_Tissue	patient2
 CACGATACCGAG_1_2	197	48	T/B	Tumour_Tissue	patient2
 CACGATACGGAT_1_2	287	54	T/B	Tumour_Tissue	patient2
 CACGATAGAACA_1_2	1548	85	T/B	Tumour_Tissue	patient2
@@ -1979,7 +1979,7 @@ CACGATCATTGA_1_2	988	84	T/B	Tumour_Tissue	patient2
 CACGATCGTTAG_1_2	1271	91	NK	Tumour_Tissue	patient2
 CACGATGAATGA_1_2	197	46	T/B	Tumour_Tissue	patient2
 CACGATGATTAG_1_2	312	67	T/B	Tumour_Tissue	patient2
-CACGATGCTGAT_1_2	4934	160	Tumour	Tumour_Tissue	patient2
+CACGATGCTGAT_1_2	4934	160	Alveolar	Tumour_Tissue	patient2
 CACGATGTCGTG_1_2	1055	84	T/B	Tumour_Tissue	patient2
 CACGATGTTCTC_1_2	859	71	T/B	Tumour_Tissue	patient2
 CACGATTACTCG_1_2	1410	93	Endothelial	Tumour_Tissue	patient2
@@ -2230,7 +2230,7 @@ CGCAACATCTCT_1_2	2639	126	Tumour	Tumour_Tissue	patient2
 CGCAACCATTGA_1_2	475	54	Myeloid	Tumour_Tissue	patient2
 CGCAACGCGTGA_1_2	685	69	T/B	Tumour_Tissue	patient2
 CGCAACGTATGC_1_2	1310	90	NK	Tumour_Tissue	patient2
-CGCAACGTGAAG_1_2	1359	103	Tumour	Tumour_Tissue	patient2
+CGCAACGTGAAG_1_2	1359	103	Alveolar	Tumour_Tissue	patient2
 CGCAACTACATC_1_2	1060	89	T/B	Tumour_Tissue	patient2
 CGCAACTGACTC_1_2	1207	87	NK	Tumour_Tissue	patient2
 CGCAACTGTCCT_1_2	2215	121	Tumour	Tumour_Tissue	patient2
@@ -2265,7 +2265,7 @@ CGGAGAGATTAG_1_2	852	74	T/B	Tumour_Tissue	patient2
 CGGAGAGCGATC_1_2	3070	119	Fibroblast	Tumour_Tissue	patient2
 CGGAGAGTATGC_1_2	1121	84	T/B	Tumour_Tissue	patient2
 CGGAGAGTGAAG_1_2	308	54	T/B	Tumour_Tissue	patient2
-CGGAGAGTGAGT_1_2	2772	124	Tumour	Tumour_Tissue	patient2
+CGGAGAGTGAGT_1_2	2772	124	Alveolar	Tumour_Tissue	patient2
 CGGAGATCCTGC_1_2	1137	84	T/B	Tumour_Tissue	patient2
 CGGAGATTAGCC_1_2	955	85	Myeloid	Tumour_Tissue	patient2
 CGTACGAATCTG_1_2	940	86	NK	Tumour_Tissue	patient2
@@ -2315,7 +2315,7 @@ CTATACAGGTGC_1_2	850	72	T/B	Tumour_Tissue	patient2
 CTATACATGTGG_1_2	767	85	T/B	Tumour_Tissue	patient2
 CTATACCACTGT_1_2	943	72	T/B	Tumour_Tissue	patient2
 CTATACCAGGAG_1_2	969	81	T/B	Tumour_Tissue	patient2
-CTATACCATGGC_1_2	2242	131	Tumour	Tumour_Tissue	patient2
+CTATACCATGGC_1_2	2242	131	Alveolar	Tumour_Tissue	patient2
 CTATACCATTGA_1_2	657	60	T/B	Tumour_Tissue	patient2
 CTATACCTAACT_1_2	1856	115	Tumour	Tumour_Tissue	patient2
 CTATACGTATGC_1_2	311	52	T/B	Tumour_Tissue	patient2
@@ -2550,7 +2550,7 @@ GGAGTTTGCGTA_1_2	2906	125	Tumour	Tumour_Tissue	patient2
 GGATATAATCTG_1_2	2491	131	Tumour	Tumour_Tissue	patient2
 GGATATACCGAG_1_2	2266	120	Tumour	Tumour_Tissue	patient2
 GGATATAGAACA_1_2	891	100	Tumour	Tumour_Tissue	patient2
-GGATATAGCCAA_1_2	2120	118	Tumour	Tumour_Tissue	patient2
+GGATATAGCCAA_1_2	2120	118	Alveolar	Tumour_Tissue	patient2
 GGATATATGTGG_1_2	2387	130	Tumour	Tumour_Tissue	patient2
 GGATATCAACAT_1_2	2595	132	Tumour	Tumour_Tissue	patient2
 GGATATCCTCAA_1_2	581	76	Fibroblast	Tumour_Tissue	patient2
@@ -2624,7 +2624,7 @@ GTAGAGTCGCTA_1_2	752	63	T/B	Tumour_Tissue	patient2
 GTAGAGTGGTAT_1_2	3853	156	Epithelial	Tumour_Tissue	patient2
 GTAGAGTTGTCG_1_2	2213	111	Tumour	Tumour_Tissue	patient2
 GTATCTAATCTG_1_2	673	63	T/B	Tumour_Tissue	patient2
-GTATCTACGGAT_1_2	1495	102	Tumour	Tumour_Tissue	patient2
+GTATCTACGGAT_1_2	1495	102	Alveolar	Tumour_Tissue	patient2
 GTATCTAGACGG_1_2	913	82	T/B	Tumour_Tissue	patient2
 GTATCTAGCCAA_1_2	657	77	T/B	Tumour_Tissue	patient2
 GTATCTAGGTGC_1_2	906	85	Immune1268a	Tumour_Tissue	patient2
@@ -2692,7 +2692,7 @@ GTGGCCACCGAG_1_2	806	70	T/B	Tumour_Tissue	patient2
 GTGGCCACTAGT_1_2	1113	94	Immune1268a	Tumour_Tissue	patient2
 GTGGCCACTTCG_1_2	1095	73	T/B	Tumour_Tissue	patient2
 GTGGCCAGCCAA_1_2	2728	135	Tumour	Tumour_Tissue	patient2
-GTGGCCAGGTGC_1_2	462	61	Tumour	Tumour_Tissue	patient2
+GTGGCCAGGTGC_1_2	462	61	Alveolar	Tumour_Tissue	patient2
 GTGGCCAGTCTT_1_2	1151	86	NK	Tumour_Tissue	patient2
 GTGGCCCAGATT_1_2	2471	116	Tumour	Tumour_Tissue	patient2
 GTGGCCCCAGTC_1_2	1069	80	T/B	Tumour_Tissue	patient2
@@ -2959,7 +2959,7 @@ TGGTCCACGGAT_1_2	848	81	T/B	Tumour_Tissue	patient2
 TGGTCCCAACAT_1_2	2844	130	Tumour	Tumour_Tissue	patient2
 TGGTCCCACTGT_1_2	1356	83	T/B	Tumour_Tissue	patient2
 TGGTCCCATCCT_1_2	1569	85	T/B	Tumour_Tissue	patient2
-TGGTCCCATGGC_1_2	2135	129	Tumour	Tumour_Tissue	patient2
+TGGTCCCATGGC_1_2	2135	129	Alveolar	Tumour_Tissue	patient2
 TGGTCCCGAAGT_1_2	952	75	T/B	Tumour_Tissue	patient2
 TGGTCCCTAACT_1_2	1357	93	Myeloid	Tumour_Tissue	patient2
 TGGTCCGAATGA_1_2	973	76	T/B	Tumour_Tissue	patient2
@@ -2984,7 +2984,7 @@ TTACTTCATTGA_1_2	1132	82	T/B	Tumour_Tissue	patient2
 TTACTTCTCACG_1_2	4155	152	Tumour	Tumour_Tissue	patient2
 TTACTTGAACTG_1_2	2652	127	Tumour	Tumour_Tissue	patient2
 TTACTTGTATGC_1_2	1694	117	Myeloid	Tumour_Tissue	patient2
-TTACTTGTTCTC_1_2	1116	91	Tumour	Tumour_Tissue	patient2
+TTACTTGTTCTC_1_2	1116	91	Alveolar	Tumour_Tissue	patient2
 TTACTTTAAGGT_1_2	2208	121	Tumour	Tumour_Tissue	patient2
 TTACTTTCGCAC_1_2	2355	124	Tumour	Tumour_Tissue	patient2
 TTACTTTCTTGG_1_2	543	73	T/B	Tumour_Tissue	patient2
@@ -3086,8 +3086,8 @@ AGCGGCAGCCAA_2_2	3863	156	Tumour	Tumour_Tissue	patient2
 AGCGGCAGGTGC_2_2	1619	126	Tumour	Tumour_Tissue	patient2
 AGCGGCCCTCAA_2_2	404	65	T/B	Tumour_Tissue	patient2
 AGCGGCCTCTTC_2_2	1013	96	T/B	Tumour_Tissue	patient2
-AGCGGCGATTAG_2_2	3664	156	Tumour	Tumour_Tissue	patient2
-AGCGGCGTATGC_2_2	2454	152	Tumour	Tumour_Tissue	patient2
+AGCGGCGATTAG_2_2	3664	156	Alveolar	Tumour_Tissue	patient2
+AGCGGCGTATGC_2_2	2454	152	Alveolar	Tumour_Tissue	patient2
 AGCGGCGTGAAG_2_2	1198	92	T/B	Tumour_Tissue	patient2
 AGCGGCTCGCTA_2_2	917	74	T/B	Tumour_Tissue	patient2
 AGCGGCTGCGTA_2_2	247	58	T/B	Tumour_Tissue	patient2
@@ -3124,8 +3124,8 @@ ATGAGCCAGATT_2_2	481	93	Tumour	Tumour_Tissue	patient2
 ATGAGCCAGGAG_2_2	1826	115	T/B	Tumour_Tissue	patient2
 ATGAGCCTCACG_2_2	1116	98	NK	Tumour_Tissue	patient2
 ATGAGCGAATGA_2_2	1258	94	NK	Tumour_Tissue	patient2
-ATGAGCGGCTCA_2_2	4073	163	Tumour	Tumour_Tissue	patient2
-ATGAGCTACTCG_2_2	1563	120	Tumour	Tumour_Tissue	patient2
+ATGAGCGGCTCA_2_2	4073	163	Alveolar	Tumour_Tissue	patient2
+ATGAGCTACTCG_2_2	1563	120	Alveolar	Tumour_Tissue	patient2
 ATGAGCTCCATT_2_2	716	83	T/B	Tumour_Tissue	patient2
 ATGAGCTCCTGC_2_2	583	81	T/B	Tumour_Tissue	patient2
 ATGAGCTGGTAT_2_2	3833	161	Tumour	Tumour_Tissue	patient2
@@ -3175,7 +3175,7 @@ CAACTACAGATT_2_2	3186	154	Tumour	Tumour_Tissue	patient2
 CAACTACGTTAG_2_2	639	73	T/B	Tumour_Tissue	patient2
 CAACTACTAACT_2_2	950	88	T/B	Tumour_Tissue	patient2
 CAACTACTACGA_2_2	1174	94	T/B	Tumour_Tissue	patient2
-CAACTACTCACG_2_2	718	95	Tumour	Tumour_Tissue	patient2
+CAACTACTCACG_2_2	718	95	Alveolar	Tumour_Tissue	patient2
 CAACTAGCGATC_2_2	1913	105	T/B	Tumour_Tissue	patient2
 CAACTAGCGTGA_2_2	1224	97	T/B	Tumour_Tissue	patient2
 CAACTAGCTGAT_2_2	1913	112	Immune1268a	Tumour_Tissue	patient2
@@ -3352,20 +3352,20 @@ CGGAGAAACGCT_2_2	1402	95	T/B	Tumour_Tissue	patient2
 CGGAGAACTAGT_2_2	527	78	Fibroblast	Tumour_Tissue	patient2
 CGGAGAAGAACA_2_2	1360	88	T/B	Tumour_Tissue	patient2
 CGGAGAAGTCTT_2_2	3288	148	Tumour	Tumour_Tissue	patient2
-CGGAGAATAGAG_2_2	2273	127	Tumour	Tumour_Tissue	patient2
+CGGAGAATAGAG_2_2	2273	127	Alveolar	Tumour_Tissue	patient2
 CGGAGACAGGAG_2_2	681	78	Myeloid	Tumour_Tissue	patient2
 CGGAGACATGGC_2_2	856	78	T/B	Tumour_Tissue	patient2
 CGGAGACATTGA_2_2	891	83	T/B	Tumour_Tissue	patient2
 CGGAGACCAGTC_2_2	3032	154	Tumour	Tumour_Tissue	patient2
 CGGAGACTCTTC_2_2	684	94	T/B	Tumour_Tissue	patient2
-CGGAGAGAAGCC_2_2	2779	141	Tumour	Tumour_Tissue	patient2
+CGGAGAGAAGCC_2_2	2779	141	Alveolar	Tumour_Tissue	patient2
 CGGAGAGATTAG_2_2	1167	82	T/B	Tumour_Tissue	patient2
 CGGAGAGGCTCA_2_2	1232	97	T/B	Tumour_Tissue	patient2
 CGGAGATCGCAC_2_2	1245	103	Tumour	Tumour_Tissue	patient2
 CGGAGATGTCCT_2_2	3247	149	Tumour	Tumour_Tissue	patient2
 CGGAGATGTTCC_2_2	4296	165	Tumour	Tumour_Tissue	patient2
 CGTACGACAGGA_2_2	986	79	T/B	Tumour_Tissue	patient2
-CGTACGAGCCAA_2_2	1840	131	Tumour	Tumour_Tissue	patient2
+CGTACGAGCCAA_2_2	1840	131	Alveolar	Tumour_Tissue	patient2
 CGTACGAGGTGC_2_2	1158	96	T/B	Tumour_Tissue	patient2
 CGTACGATGTGG_2_2	3976	155	Tumour	Tumour_Tissue	patient2
 CGTACGCTACGA_2_2	1423	102	T/B	Tumour_Tissue	patient2
@@ -3466,7 +3466,7 @@ GAGTAAAGTCTT_2_2	408	64	NK	Tumour_Tissue	patient2
 GAGTAACGTTAG_2_2	1109	95	Epithelial	Tumour_Tissue	patient2
 GAGTAACTACGA_2_2	209	51	T/B	Tumour_Tissue	patient2
 GAGTAACTCCTT_2_2	709	77	T/B	Tumour_Tissue	patient2
-GAGTAAGAACTG_2_2	1312	109	Tumour	Tumour_Tissue	patient2
+GAGTAAGAACTG_2_2	1312	109	Alveolar	Tumour_Tissue	patient2
 GAGTAAGCGATC_2_2	1803	91	T/B	Tumour_Tissue	patient2
 GAGTAAGCTGAT_2_2	4588	156	Tumour	Tumour_Tissue	patient2
 GAGTAAGTCTAT_2_2	1104	97	T/B	Tumour_Tissue	patient2
@@ -3477,7 +3477,7 @@ GAGTAATCTTGG_2_2	897	79	T/B	Tumour_Tissue	patient2
 GAGTGGAAGTTC_2_2	864	78	Immune1268a	Tumour_Tissue	patient2
 GAGTGGAATCTG_2_2	1163	105	T/B	Tumour_Tissue	patient2
 GAGTGGATAGAG_2_2	2354	128	Tumour	Tumour_Tissue	patient2
-GAGTGGATCTCT_2_2	1416	112	Tumour	Tumour_Tissue	patient2
+GAGTGGATCTCT_2_2	1416	112	Alveolar	Tumour_Tissue	patient2
 GAGTGGATTCAT_2_2	2589	134	Tumour	Tumour_Tissue	patient2
 GAGTGGCGTTAG_2_2	360	66	T/B	Tumour_Tissue	patient2
 GAGTGGGTCTAT_2_2	1181	91	T/B	Tumour_Tissue	patient2
@@ -3519,7 +3519,7 @@ GCTCAAGATTAG_2_2	1191	83	T/B	Tumour_Tissue	patient2
 GCTCAAGCTGAT_2_2	3428	144	Tumour	Tumour_Tissue	patient2
 GCTCAAGTATGC_2_2	3120	148	Tumour	Tumour_Tissue	patient2
 GCTCAAGTCGTG_2_2	833	91	T/B	Tumour_Tissue	patient2
-GCTCAATAAGGT_2_2	2086	134	Tumour	Tumour_Tissue	patient2
+GCTCAATAAGGT_2_2	2086	134	Alveolar	Tumour_Tissue	patient2
 GCTCAATACTCG_2_2	1054	90	NK	Tumour_Tissue	patient2
 GCTCAATCTTGG_2_2	1284	90	T/B	Tumour_Tissue	patient2
 GGAGTTAATCTG_2_2	928	74	T/B	Tumour_Tissue	patient2
@@ -3540,7 +3540,7 @@ GGATATCGTTAG_2_2	3153	147	Tumour	Tumour_Tissue	patient2
 GGATATCTCCTT_2_2	460	76	T/B	Tumour_Tissue	patient2
 GGATATGAAGCC_2_2	2854	146	Tumour	Tumour_Tissue	patient2
 GGATATGAATGA_2_2	1285	104	Myeloid	Tumour_Tissue	patient2
-GGATATGCGTGA_2_2	2848	139	Tumour	Tumour_Tissue	patient2
+GGATATGCGTGA_2_2	2848	139	Alveolar	Tumour_Tissue	patient2
 GGATATGTGAGT_2_2	1401	106	NK	Tumour_Tissue	patient2
 GGATATGTGGTT_2_2	1154	92	T/B	Tumour_Tissue	patient2
 GGATATTAAGGT_2_2	834	85	T/B	Tumour_Tissue	patient2
@@ -3568,7 +3568,7 @@ GTAAGAGAATGA_2_2	724	88	T/B	Tumour_Tissue	patient2
 GTAAGAGCGTGA_2_2	981	102	T/B	Tumour_Tissue	patient2
 GTAAGAGCTGAT_2_2	3745	138	Tumour	Tumour_Tissue	patient2
 GTAAGAGTGAGT_2_2	723	72	T/B	Tumour_Tissue	patient2
-GTAAGATCGCTA_2_2	1175	109	Tumour	Tumour_Tissue	patient2
+GTAAGATCGCTA_2_2	1175	109	Alveolar	Tumour_Tissue	patient2
 GTAAGATGACTC_2_2	1275	113	T/B	Tumour_Tissue	patient2
 GTAGAGACTTCG_2_2	691	81	Tumour	Tumour_Tissue	patient2
 GTAGAGAGTGAC_2_2	797	91	Fibroblast	Tumour_Tissue	patient2
@@ -3577,14 +3577,14 @@ GTAGAGTGTGTC_2_2	1426	103	T/B	Tumour_Tissue	patient2
 GTAGAGTGTTCC_2_2	266	66	T/B	Tumour_Tissue	patient2
 GTATCTACTTCG_2_2	1023	89	NK	Tumour_Tissue	patient2
 GTATCTAGACGG_2_2	992	82	T/B	Tumour_Tissue	patient2
-GTATCTAGCCAA_2_2	2627	134	Tumour	Tumour_Tissue	patient2
-GTATCTAGGTGC_2_2	1819	118	Tumour	Tumour_Tissue	patient2
+GTATCTAGCCAA_2_2	2627	134	Alveolar	Tumour_Tissue	patient2
+GTATCTAGGTGC_2_2	1819	118	Alveolar	Tumour_Tissue	patient2
 GTATCTATCTCT_2_2	1675	121	Epithelial	Tumour_Tissue	patient2
 GTATCTATTCAT_2_2	949	87	T/B	Tumour_Tissue	patient2
 GTATCTCAACAT_2_2	1198	94	NK	Tumour_Tissue	patient2
 GTATCTCACTGT_2_2	1318	112	T/B	Tumour_Tissue	patient2
 GTATCTCCTCAA_2_2	2073	113	T/B	Tumour_Tissue	patient2
-GTATCTCTAACT_2_2	1683	131	Tumour	Tumour_Tissue	patient2
+GTATCTCTAACT_2_2	1683	131	Alveolar	Tumour_Tissue	patient2
 GTATCTGCGTGA_2_2	631	81	NK	Tumour_Tissue	patient2
 GTATCTTAAGGT_2_2	538	69	T/B	Tumour_Tissue	patient2
 GTATCTTCCTGC_2_2	464	75	T/B	Tumour_Tissue	patient2
@@ -3623,7 +3623,7 @@ GTGAAACATTGA_2_2	306	60	T/B	Tumour_Tissue	patient2
 GTGAAATCCATT_2_2	1655	114	NK	Tumour_Tissue	patient2
 GTGGCCAGAACA_2_2	1180	96	NK	Tumour_Tissue	patient2
 GTGGCCCACTGT_2_2	520	77	NK	Tumour_Tissue	patient2
-GTGGCCCCAGTC_2_2	1702	130	Tumour	Tumour_Tissue	patient2
+GTGGCCCCAGTC_2_2	1702	130	Alveolar	Tumour_Tissue	patient2
 GTGGCCCGAAGT_2_2	2089	112	NK	Tumour_Tissue	patient2
 GTGGCCGTGGTT_2_2	996	79	T/B	Tumour_Tissue	patient2
 GTGGCCTACATC_2_2	1002	80	Immune1268a	Tumour_Tissue	patient2
@@ -3787,7 +3787,7 @@ TTACTTACCTTA_2_2	1348	109	T/B	Tumour_Tissue	patient2
 TTACTTAGACGG_2_2	3271	145	Fibroblast	Tumour_Tissue	patient2
 TTACTTAGCCAA_2_2	877	86	T/B	Tumour_Tissue	patient2
 TTACTTATTCAT_2_2	1109	92	T/B	Tumour_Tissue	patient2
-TTACTTCCTGTT_2_2	2032	124	Tumour	Tumour_Tissue	patient2
+TTACTTCCTGTT_2_2	2032	124	Alveolar	Tumour_Tissue	patient2
 TTACTTCTCTTC_2_2	1221	93	T/B	Tumour_Tissue	patient2
 TTACTTGTCGTG_2_2	194	53	T/B	Tumour_Tissue	patient2
 TTACTTGTGAAG_2_2	1945	124	Tumour	Tumour_Tissue	patient2
@@ -4040,7 +4040,7 @@ CAACTAATGCCA_1_8	4934	200	Tumour	Tumour_Tissue	patient3
 CAACTACCTCAA_1_8	8071	196	Fibroblast	Tumour_Tissue	patient3
 CAACTAGTGGTT_1_8	4769	201	Tumour	Tumour_Tissue	patient3
 CAACTATACATC_1_8	5917	231	Tumour	Tumour_Tissue	patient3
-CAACTATCTTGG_1_8	2336	146	Tumour	Tumour_Tissue	patient3
+CAACTATCTTGG_1_8	2336	146	Alveolar	Tumour_Tissue	patient3
 CAACTATGCGTA_1_8	1950	122	Fibroblast	Tumour_Tissue	patient3
 CAACTATTGTCG_1_8	5491	215	Tumour	Tumour_Tissue	patient3
 CACCGGACTTCG_1_8	952	107	Fibroblast	Tumour_Tissue	patient3
@@ -4139,7 +4139,7 @@ CATGGCGAACTG_1_8	799	67	T/B	Tumour_Tissue	patient3
 CATGGCGTCGTG_1_8	1138	96	Myeloid	Tumour_Tissue	patient3
 CATGGCGTCTAT_1_8	937	88	Tumour	Tumour_Tissue	patient3
 CATGGCGTGAAG_1_8	1206	74	T/B	Tumour_Tissue	patient3
-CATGGCGTTCTC_1_8	1720	122	Tumour	Tumour_Tissue	patient3
+CATGGCGTTCTC_1_8	1720	122	Alveolar	Tumour_Tissue	patient3
 CATGGCTCAGCT_1_8	284	46	Myeloid	Tumour_Tissue	patient3
 CATTTTAATCTG_1_8	85	25	Myeloid	Tumour_Tissue	patient3
 CATTTTACCGAG_1_8	660	94	NK	Tumour_Tissue	patient3
@@ -4283,7 +4283,7 @@ CGGAGACATTGA_1_8	845	95	Endothelial	Tumour_Tissue	patient3
 CGGAGAGTGGTT_1_8	6646	254	Tumour	Tumour_Tissue	patient3
 CGGAGATACATC_1_8	5216	172	Tumour	Tumour_Tissue	patient3
 CGGAGATCAGCT_1_8	1309	114	Tumour	Tumour_Tissue	patient3
-CGGAGATGGTAT_1_8	2425	146	Tumour	Tumour_Tissue	patient3
+CGGAGATGGTAT_1_8	2425	146	Alveolar	Tumour_Tissue	patient3
 CGGAGATTGTCG_1_8	7431	255	Tumour	Tumour_Tissue	patient3
 CGTACGACCACC_1_8	3150	155	Fibroblast	Tumour_Tissue	patient3
 CGTACGACGGAT_1_8	3840	177	Tumour	Tumour_Tissue	patient3
@@ -4401,7 +4401,7 @@ GAGTGGCAATCC_1_8	3134	149	Tumour	Tumour_Tissue	patient3
 GAGTGGCGTTAG_1_8	6057	228	Tumour	Tumour_Tissue	patient3
 GAGTGGCTAACT_1_8	519	80	Tumour	Tumour_Tissue	patient3
 GAGTGGCTCCTT_1_8	4313	178	Tumour	Tumour_Tissue	patient3
-GAGTGGGATTAG_1_8	2424	156	Tumour	Tumour_Tissue	patient3
+GAGTGGGATTAG_1_8	2424	156	Alveolar	Tumour_Tissue	patient3
 GAGTGGGCGTGA_1_8	5513	215	Tumour	Tumour_Tissue	patient3
 GAGTGGGCTGAT_1_8	3811	157	Tumour	Tumour_Tissue	patient3
 GAGTGGGTGGTT_1_8	7768	267	Tumour	Tumour_Tissue	patient3
@@ -4419,7 +4419,7 @@ GCAGTCCGTTAG_1_8	4624	153	Fibroblast	Tumour_Tissue	patient3
 GCAGTCCTCCTT_1_8	3526	146	Fibroblast	Tumour_Tissue	patient3
 GCAGTCGCGATC_1_8	858	95	Fibroblast	Tumour_Tissue	patient3
 GCAGTCGTATGC_1_8	3159	149	Fibroblast	Tumour_Tissue	patient3
-GCAGTCGTTCTC_1_8	2433	139	Tumour	Tumour_Tissue	patient3
+GCAGTCGTTCTC_1_8	2433	139	Alveolar	Tumour_Tissue	patient3
 GCAGTCTACTCG_1_8	4980	145	Fibroblast	Tumour_Tissue	patient3
 GCAGTCTGACTC_1_8	5146	198	Tumour	Tumour_Tissue	patient3
 GCGGTTAGTCTT_1_8	1595	87	T/B	Tumour_Tissue	patient3
@@ -4544,7 +4544,7 @@ GTCATCTGTGTC_1_8	970	101	Fibroblast	Tumour_Tissue	patient3
 GTCCGCAATCTG_1_8	2290	142	Tumour	Tumour_Tissue	patient3
 GTCCGCACCGAG_1_8	2102	135	Immune1268a	Tumour_Tissue	patient3
 GTCCGCACTAGT_1_8	6691	189	Fibroblast	Tumour_Tissue	patient3
-GTCCGCAGACGG_1_8	5298	170	Tumour	Tumour_Tissue	patient3
+GTCCGCAGACGG_1_8	5298	170	Alveolar	Tumour_Tissue	patient3
 GTCCGCCAACAT_1_8	623	86	T/B	Tumour_Tissue	patient3
 GTCCGCCAATCC_1_8	4470	200	Tumour	Tumour_Tissue	patient3
 GTCCGCCAGGAG_1_8	629	94	Tumour	Tumour_Tissue	patient3
@@ -4632,7 +4632,7 @@ TACAGCCTCACG_1_8	686	77	Myeloid	Tumour_Tissue	patient3
 TACAGCGAAGCC_1_8	1161	80	T/B	Tumour_Tissue	patient3
 TACAGCGTCTAT_1_8	4994	151	Fibroblast	Tumour_Tissue	patient3
 TACAGCGTTCTC_1_8	3215	138	Endothelial	Tumour_Tissue	patient3
-TACAGCTACTCG_1_8	3125	154	Tumour	Tumour_Tissue	patient3
+TACAGCTACTCG_1_8	3125	154	Alveolar	Tumour_Tissue	patient3
 TACAGCTCAGCT_1_8	932	84	T/B	Tumour_Tissue	patient3
 TAGTCAACTTCG_1_8	2309	132	Immune1268a	Tumour_Tissue	patient3
 TAGTCAATGTGG_1_8	4150	176	Tumour	Tumour_Tissue	patient3
@@ -4759,7 +4759,7 @@ AACCAACATTGA_2_8	213	38	Myeloid	Tumour_Tissue	patient3
 AACCAAGATTAG_2_8	769	77	Mast	Tumour_Tissue	patient3
 AACCAAGTCGTG_2_8	939	66	T/B	Tumour_Tissue	patient3
 AACCAATCAGCT_2_8	250	37	T/B	Tumour_Tissue	patient3
-AACCTCACCTTA_2_8	4535	175	Tumour	Tumour_Tissue	patient3
+AACCTCACCTTA_2_8	4535	175	Alveolar	Tumour_Tissue	patient3
 AACCTCAGGATG_2_8	785	91	T/B	Tumour_Tissue	patient3
 AACCTCAGTCTT_2_8	5950	164	Fibroblast	Tumour_Tissue	patient3
 AACCTCCACTGT_2_8	2306	116	Fibroblast	Tumour_Tissue	patient3
@@ -4935,7 +4935,7 @@ CAAAAGTGTCCT_2_8	5171	207	Tumour	Tumour_Tissue	patient3
 CAAAAGTGTTCC_2_8	5072	160	Fibroblast	Tumour_Tissue	patient3
 CAACTAATTCAT_2_8	540	83	Fibroblast	Tumour_Tissue	patient3
 CAACTACAACAT_2_8	1093	103	Epithelial	Tumour_Tissue	patient3
-CAACTACATTGA_2_8	630	85	Tumour	Tumour_Tissue	patient3
+CAACTACATTGA_2_8	630	85	Alveolar	Tumour_Tissue	patient3
 CAACTAGTCTAT_2_8	424	70	T/B	Tumour_Tissue	patient3
 CAACTAGTGAGT_2_8	817	113	Fibroblast	Tumour_Tissue	patient3
 CAACTATCCATT_2_8	6228	230	Tumour	Tumour_Tissue	patient3
@@ -4995,7 +4995,7 @@ CATGGCGTGAGT_2_8	935	77	T/B	Tumour_Tissue	patient3
 CATGGCGTGGTT_2_8	1211	70	T/B	Tumour_Tissue	patient3
 CATGGCTACTCG_2_8	592	88	Endothelial	Tumour_Tissue	patient3
 CATTTTACCACC_2_8	881	68	T/B	Tumour_Tissue	patient3
-CATTTTACCGAG_2_8	2728	143	Tumour	Tumour_Tissue	patient3
+CATTTTACCGAG_2_8	2728	143	Alveolar	Tumour_Tissue	patient3
 CATTTTACTAGT_2_8	378	61	T/B	Tumour_Tissue	patient3
 CATTTTATCTCT_2_8	1484	90	T/B	Tumour_Tissue	patient3
 CATTTTCCTCAA_2_8	1040	78	T/B	Tumour_Tissue	patient3
@@ -5135,7 +5135,7 @@ CTAGCTAGTCTT_2_8	1395	81	T/B	Tumour_Tissue	patient3
 CTAGCTATAGAG_2_8	1123	112	Tumour	Tumour_Tissue	patient3
 CTAGCTCAACAT_2_8	915	78	T/B	Tumour_Tissue	patient3
 CTAGCTCCTCAA_2_8	3942	145	Immune1268a	Tumour_Tissue	patient3
-CTAGCTCCTGTT_2_8	3761	157	Tumour	Tumour_Tissue	patient3
+CTAGCTCCTGTT_2_8	3761	157	Alveolar	Tumour_Tissue	patient3
 CTAGCTCTAACT_2_8	2338	127	Mast	Tumour_Tissue	patient3
 CTAGCTCTCTTC_2_8	1195	76	T/B	Tumour_Tissue	patient3
 CTAGCTGAATGA_2_8	6153	191	Fibroblast	Tumour_Tissue	patient3
@@ -5224,7 +5224,7 @@ GAGTGGCATGGC_2_8	2338	123	Endothelial	Tumour_Tissue	patient3
 GAGTGGCTACGA_2_8	616	83	Endothelial	Tumour_Tissue	patient3
 GAGTGGGCGTGA_2_8	6736	174	Fibroblast	Tumour_Tissue	patient3
 GAGTGGTTAGCC_2_8	5478	200	Tumour	Tumour_Tissue	patient3
-GCAGTCACCGAG_2_8	1995	135	Tumour	Tumour_Tissue	patient3
+GCAGTCACCGAG_2_8	1995	135	Alveolar	Tumour_Tissue	patient3
 GCAGTCAGAACA_2_8	643	89	Tumour	Tumour_Tissue	patient3
 GCAGTCATCTCT_2_8	5978	196	Fibroblast	Tumour_Tissue	patient3
 GCAGTCATGTGG_2_8	1728	122	Endothelial	Tumour_Tissue	patient3
@@ -5251,7 +5251,7 @@ GCGGTTTGTCCT_2_8	1071	80	T/B	Tumour_Tissue	patient3
 GCGGTTTGTGTC_2_8	1547	88	T/B	Tumour_Tissue	patient3
 GCGGTTTGTTCC_2_8	413	57	T/B	Tumour_Tissue	patient3
 GCTCAAAGTCTT_2_8	766	107	Tumour	Tumour_Tissue	patient3
-GCTCAAATAGAG_2_8	3073	151	Tumour	Tumour_Tissue	patient3
+GCTCAAATAGAG_2_8	3073	151	Alveolar	Tumour_Tissue	patient3
 GCTCAACAGATT_2_8	3135	183	Tumour	Tumour_Tissue	patient3
 GCTCAACCTCAA_2_8	3736	158	Epithelial	Tumour_Tissue	patient3
 GCTCAAGCGATC_2_8	5083	182	Tumour	Tumour_Tissue	patient3
@@ -5264,7 +5264,7 @@ GGAGTTAGAACA_2_8	1698	119	Fibroblast	Tumour_Tissue	patient3
 GGAGTTCAGATT_2_8	3794	162	Fibroblast	Tumour_Tissue	patient3
 GGAGTTCTCCTT_2_8	6504	224	Tumour	Tumour_Tissue	patient3
 GGAGTTGTGAAG_2_8	1230	115	Immune1268a	Tumour_Tissue	patient3
-GGAGTTTAAGGT_2_8	4913	164	Tumour	Tumour_Tissue	patient3
+GGAGTTTAAGGT_2_8	4913	164	Alveolar	Tumour_Tissue	patient3
 GGAGTTTACATC_2_8	6047	228	Tumour	Tumour_Tissue	patient3
 GGAGTTTCCATT_2_8	1923	148	Fibroblast	Tumour_Tissue	patient3
 GGAGTTTCGCAC_2_8	1666	125	Endothelial	Tumour_Tissue	patient3
@@ -5345,7 +5345,7 @@ GTGAAAGAAGCC_2_8	4024	175	Tumour	Tumour_Tissue	patient3
 GTGAAAGCGATC_2_8	766	100	Tumour	Tumour_Tissue	patient3
 GTGAAATAAGGT_2_8	3715	157	Tumour	Tumour_Tissue	patient3
 GTGAAATGTTCC_2_8	2873	160	Epithelial	Tumour_Tissue	patient3
-GTGAAATTAGCC_2_8	1109	113	Tumour	Tumour_Tissue	patient3
+GTGAAATTAGCC_2_8	1109	113	Alveolar	Tumour_Tissue	patient3
 GTGGCCAACGCT_2_8	3757	154	Endothelial	Tumour_Tissue	patient3
 GTGGCCACGGAT_2_8	4065	185	Tumour	Tumour_Tissue	patient3
 GTGGCCAGACGG_2_8	2710	135	Tumour	Tumour_Tissue	patient3
@@ -6316,7 +6316,7 @@ GGATATCGAAGT_1_9	974	81	Fibroblast	Tumour_Tissue	patient4
 GGATATCTACGA_1_9	4472	191	Tumour	Tumour_Tissue	patient4
 GGATATCTCACG_1_9	621	79	Myeloid	Tumour_Tissue	patient4
 GGATATCTCCTT_1_9	654	82	Tumour	Tumour_Tissue	patient4
-GGATATGAAGCC_1_9	483	77	Tumour	Tumour_Tissue	patient4
+GGATATGAAGCC_1_9	483	77	Alveolar	Tumour_Tissue	patient4
 GGATATGTATGC_1_9	1064	79	T/B	Tumour_Tissue	patient4
 GGATATTCAGCT_1_9	918	78	T/B	Tumour_Tissue	patient4
 GGATATTCCATT_1_9	1249	89	Immune1268a	Tumour_Tissue	patient4
@@ -7994,7 +7994,7 @@ AACCAACTAACT_1_10	1059	94	Immune1268a	Tumour_Tissue	patient5
 AACCAACTCACG_1_10	304	42	Myeloid	Tumour_Tissue	patient5
 AACCAAGAATGA_1_10	805	67	T/B	Tumour_Tissue	patient5
 AACCAAGTTCTC_1_10	793	74	Immune1268a	Tumour_Tissue	patient5
-AACCAATACATC_1_10	1316	97	Tumour	Tumour_Tissue	patient5
+AACCAATACATC_1_10	1316	97	Alveolar	Tumour_Tissue	patient5
 AACCAATCAGCT_1_10	1908	104	Tumour	Tumour_Tissue	patient5
 AACCAATGACTC_1_10	888	75	T/B	Tumour_Tissue	patient5
 AACCAATTAGCC_1_10	2079	129	Myeloid	Tumour_Tissue	patient5
@@ -8329,7 +8329,7 @@ CCTTCAACCACC_1_10	1346	84	T/B	Tumour_Tissue	patient5
 CCTTCAACTTCG_1_10	1519	91	T/B	Tumour_Tissue	patient5
 CCTTCAATTCAT_1_10	205	31	Myeloid	Tumour_Tissue	patient5
 CCTTCACGTTAG_1_10	1914	128	Epithelial	Tumour_Tissue	patient5
-CCTTCAGCGATC_1_10	1719	116	Tumour	Tumour_Tissue	patient5
+CCTTCAGCGATC_1_10	1719	116	Alveolar	Tumour_Tissue	patient5
 CCTTCAGCGTGA_1_10	1153	81	T/B	Tumour_Tissue	patient5
 CCTTCAGGCTCA_1_10	2024	111	Tumour	Tumour_Tissue	patient5
 CCTTCAGTGAAG_1_10	908	73	T/B	Tumour_Tissue	patient5
@@ -8512,7 +8512,7 @@ GCAGTCGAACTG_1_10	544	66	T/B	Tumour_Tissue	patient5
 GCAGTCGAATGA_1_10	1915	105	Myeloid	Tumour_Tissue	patient5
 GCAGTCGCGTGA_1_10	1084	80	T/B	Tumour_Tissue	patient5
 GCAGTCGTGGTT_1_10	3297	141	Tumour	Tumour_Tissue	patient5
-GCAGTCGTTCTC_1_10	3230	149	Tumour	Tumour_Tissue	patient5
+GCAGTCGTTCTC_1_10	3230	149	Alveolar	Tumour_Tissue	patient5
 GCAGTCTCCTGC_1_10	534	77	Myeloid	Tumour_Tissue	patient5
 GCGGTTACTTCG_1_10	1205	81	NK	Tumour_Tissue	patient5
 GCGGTTAGTGAC_1_10	1208	84	T/B	Tumour_Tissue	patient5
@@ -8720,7 +8720,7 @@ TAGTCACTCTTC_1_10	833	81	T/B	Tumour_Tissue	patient5
 TAGTCAGTATGC_1_10	259	51	NK	Tumour_Tissue	patient5
 TAGTCAGTGAGT_1_10	1348	75	T/B	Tumour_Tissue	patient5
 TAGTCAGTGGTT_1_10	455	38	Myeloid	Tumour_Tissue	patient5
-TAGTCATACTCG_1_10	698	89	Tumour	Tumour_Tissue	patient5
+TAGTCATACTCG_1_10	698	89	Alveolar	Tumour_Tissue	patient5
 TAGTCATCGCTA_1_10	1011	73	T/B	Tumour_Tissue	patient5
 TATAATACCACC_1_10	1666	119	Immune1268a	Tumour_Tissue	patient5
 TATAATACCTTA_1_10	3071	152	Epithelial	Tumour_Tissue	patient5
@@ -8750,7 +8750,7 @@ TCATTCGTCGTG_1_10	705	66	T/B	Tumour_Tissue	patient5
 TCCCGAACCGAG_1_10	1141	80	NK	Tumour_Tissue	patient5
 TCCCGAACTAGT_1_10	1383	96	T/B	Tumour_Tissue	patient5
 TCCCGAAGCCAA_1_10	779	71	T/B	Tumour_Tissue	patient5
-TCCCGAATAGAG_1_10	1576	106	Tumour	Tumour_Tissue	patient5
+TCCCGAATAGAG_1_10	1576	106	Alveolar	Tumour_Tissue	patient5
 TCCCGAATCTCT_1_10	1079	80	T/B	Tumour_Tissue	patient5
 TCCCGAATTCAT_1_10	406	61	T/B	Tumour_Tissue	patient5
 TCCCGACTACGA_1_10	2661	121	Tumour	Tumour_Tissue	patient5
@@ -8835,7 +8835,7 @@ TTACTTACCGAG_1_10	2525	128	Tumour	Tumour_Tissue	patient5
 TTACTTACTTCG_1_10	768	95	Epithelial	Tumour_Tissue	patient5
 TTACTTAGACGG_1_10	4125	162	Tumour	Tumour_Tissue	patient5
 TTACTTAGGATG_1_10	1085	85	T/B	Tumour_Tissue	patient5
-TTACTTAGGTGC_1_10	709	74	Tumour	Tumour_Tissue	patient5
+TTACTTAGGTGC_1_10	709	74	Alveolar	Tumour_Tissue	patient5
 TTACTTCATCCT_1_10	1032	79	T/B	Tumour_Tissue	patient5
 TTACTTCATGGC_1_10	1104	86	T/B	Tumour_Tissue	patient5
 TTACTTCATTGA_1_10	548	75	Tumour	Tumour_Tissue	patient5
@@ -8871,7 +8871,7 @@ AACCAAGTCGTG_2_10	870	86	Tumour	Tumour_Tissue	patient5
 AACCAAGTGAAG_2_10	1172	82	T/B	Tumour_Tissue	patient5
 AACCAATCGCTA_2_10	2794	121	Tumour	Tumour_Tissue	patient5
 AACCAATGCGTA_2_10	427	47	Myeloid	Tumour_Tissue	patient5
-AACCAATGTTCC_2_10	1798	110	Tumour	Tumour_Tissue	patient5
+AACCAATGTTCC_2_10	1798	110	Alveolar	Tumour_Tissue	patient5
 AACCTCACGGAT_2_10	1100	99	Myeloid	Tumour_Tissue	patient5
 AACCTCACTAGT_2_10	1136	85	Immune1268a	Tumour_Tissue	patient5
 AACCTCACTTCG_2_10	2251	129	Epithelial	Tumour_Tissue	patient5
@@ -8885,7 +8885,7 @@ AACCTCGAACTG_2_10	1011	91	T/B	Tumour_Tissue	patient5
 AACCTCGAATGA_2_10	1111	88	NK	Tumour_Tissue	patient5
 AACCTCGTGGTT_2_10	1060	82	T/B	Tumour_Tissue	patient5
 AACGGTAATCTG_2_10	1269	81	Immune1268a	Tumour_Tissue	patient5
-AACGGTACTAGT_2_10	2545	128	Tumour	Tumour_Tissue	patient5
+AACGGTACTAGT_2_10	2545	128	Alveolar	Tumour_Tissue	patient5
 AACGGTAGCCAA_2_10	837	77	NK	Tumour_Tissue	patient5
 AACGGTAGGATG_2_10	2181	121	Myeloid	Tumour_Tissue	patient5
 AACGGTATGCCA_2_10	702	63	T/B	Tumour_Tissue	patient5
@@ -8980,7 +8980,7 @@ ATGAGCATGCCA_2_10	1435	91	Immune1268a	Tumour_Tissue	patient5
 ATGAGCCCTCAA_2_10	2840	121	Epithelial	Tumour_Tissue	patient5
 ATGAGCCGTTAG_2_10	1001	68	T/B	Tumour_Tissue	patient5
 ATGAGCCTCACG_2_10	2277	123	Epithelial	Tumour_Tissue	patient5
-ATGAGCTCGCTA_2_10	1830	127	Tumour	Tumour_Tissue	patient5
+ATGAGCTCGCTA_2_10	1830	127	Alveolar	Tumour_Tissue	patient5
 ATGAGCTCTTGG_2_10	1377	91	Myeloid	Tumour_Tissue	patient5
 ATGAGCTGCGTA_2_10	3613	133	Endothelial	Tumour_Tissue	patient5
 ATGTCAAGACGG_2_10	2582	142	Tumour	Tumour_Tissue	patient5
@@ -9000,7 +9000,7 @@ ATTCCTCAACAT_2_10	2258	124	Tumour	Tumour_Tissue	patient5
 ATTCCTCCAGTC_2_10	2044	122	Myeloid	Tumour_Tissue	patient5
 ATTCCTGAAGCC_2_10	2550	129	Epithelial	Tumour_Tissue	patient5
 ATTCCTTACTCG_2_10	471	64	Endothelial	Tumour_Tissue	patient5
-ATTCCTTCCATT_2_10	2842	126	Tumour	Tumour_Tissue	patient5
+ATTCCTTCCATT_2_10	2842	126	Alveolar	Tumour_Tissue	patient5
 ATTCCTTGACTC_2_10	4002	157	Tumour	Tumour_Tissue	patient5
 CAAAAGACCACC_2_10	1579	114	Myeloid	Tumour_Tissue	patient5
 CAAAAGATTCAT_2_10	1352	83	T/B	Tumour_Tissue	patient5
@@ -9273,7 +9273,7 @@ GCGGTTCAGGAG_2_10	922	75	Myeloid	Tumour_Tissue	patient5
 GCGGTTGAATGA_2_10	884	64	T/B	Tumour_Tissue	patient5
 GCGGTTGTGAAG_2_10	2225	118	Tumour	Tumour_Tissue	patient5
 GCGGTTTACATC_2_10	1244	89	NK	Tumour_Tissue	patient5
-GCGGTTTGCGTA_2_10	292	65	Tumour	Tumour_Tissue	patient5
+GCGGTTTGCGTA_2_10	292	65	Alveolar	Tumour_Tissue	patient5
 GCGGTTTGTGTC_2_10	2568	124	Tumour	Tumour_Tissue	patient5
 GCTCAACTCCTT_2_10	1573	96	T/B	Tumour_Tissue	patient5
 GCTCAAGAACTG_2_10	1117	92	Myeloid	Tumour_Tissue	patient5
@@ -9317,7 +9317,7 @@ GTAAGAGAAGCC_2_10	1321	85	T/B	Tumour_Tissue	patient5
 GTAAGAGCGTGA_2_10	454	54	T/B	Tumour_Tissue	patient5
 GTAAGAGTGGTT_2_10	1240	91	T/B	Tumour_Tissue	patient5
 GTAAGATGCGTA_2_10	1590	109	Myeloid	Tumour_Tissue	patient5
-GTAAGATTAGCC_2_10	2527	134	Tumour	Tumour_Tissue	patient5
+GTAAGATTAGCC_2_10	2527	134	Alveolar	Tumour_Tissue	patient5
 GTAGAGAACGCT_2_10	990	76	T/B	Tumour_Tissue	patient5
 GTAGAGACGGAT_2_10	3240	153	Tumour	Tumour_Tissue	patient5
 GTAGAGACTAGT_2_10	1035	66	T/B	Tumour_Tissue	patient5
@@ -9392,7 +9392,7 @@ GTTTCGCGAAGT_2_10	439	46	Myeloid	Tumour_Tissue	patient5
 GTTTCGCTCTTC_2_10	1119	74	T/B	Tumour_Tissue	patient5
 GTTTCGGCGATC_2_10	159	23	T/B	Tumour_Tissue	patient5
 GTTTCGTCAGCT_2_10	2285	120	Mast	Tumour_Tissue	patient5
-TAACGTACCGAG_2_10	3265	145	Tumour	Tumour_Tissue	patient5
+TAACGTACCGAG_2_10	3265	145	Alveolar	Tumour_Tissue	patient5
 TAACGTACTAGT_2_10	1724	109	T/B	Tumour_Tissue	patient5
 TAACGTACTTCG_2_10	1089	81	T/B	Tumour_Tissue	patient5
 TAACGTAGACGG_2_10	1188	94	NK	Tumour_Tissue	patient5
@@ -9458,7 +9458,7 @@ TCCCGAATCTCT_2_10	880	83	T/B	Tumour_Tissue	patient5
 TCCCGAATGCCA_2_10	1735	128	Myeloid	Tumour_Tissue	patient5
 TCCCGACTAACT_2_10	1136	72	T/B	Tumour_Tissue	patient5
 TCCCGACTCCTT_2_10	1556	92	T/B	Tumour_Tissue	patient5
-TCCCGAGAACTG_2_10	5080	170	Tumour	Tumour_Tissue	patient5
+TCCCGAGAACTG_2_10	5080	170	Alveolar	Tumour_Tissue	patient5
 TCCCGAGATTAG_2_10	167	39	T/B	Tumour_Tissue	patient5
 TCCCGAGTATGC_2_10	1139	79	T/B	Tumour_Tissue	patient5
 TCCCGATCGCAC_2_10	225	51	T/B	Tumour_Tissue	patient5

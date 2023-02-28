@@ -1,0 +1,33 @@
+{
+  "name": "MouseLung",
+  "shortLabel": "MouseLung",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "celltype",
+  "labelField": "celltype",
+  "enumFields": [
+    "celltype"
+  ],
+  "coords": [
+    {
+      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/tsne.coords.tsv",
+      "shortLabel": "Seurat tsne"
+    }
+  ],
+  "geneLabel": "Gene",
+  "quickGenesFile": "quickGenes.csv",
+  "markers": [
+    {
+      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/celltype_markers.txt",
+      "shortLabel": "Cluster-specific markers"
+    }
+  ],
+  "metaOpt": {
+    "Cluster_field": {
+      "fontSize": "5px"
+    }
+  },
+  "acronymFile": "acronyms.tsv",
+  "inDir": ""
+}

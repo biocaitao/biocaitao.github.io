@@ -14,21 +14,21 @@
     },
     "inMeta": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/meta.tsv",
-      "md5": "6c4b2a09eb",
+      "md5": "c6bdc0d21d",
       "size": 346377,
-      "mtime": "2023-02-10 06:15:17"
+      "mtime": "2023-03-01 01:44:04"
     },
     "outMeta": {
       "fname": "lung_mir/MouseLung/meta.tsv",
-      "md5": "6c4b2a09eb",
+      "md5": "c6bdc0d21d",
       "size": 346377,
-      "mtime": "2023-02-24 07:03:26"
+      "mtime": "2023-03-01 01:44:16"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/cellbrowser.conf",
-      "md5": "39cc2b8bbb",
-      "size": 565,
-      "mtime": "2023-02-10 06:15:59"
+      "md5": "26eca9b13b",
+      "size": 566,
+      "mtime": "2023-03-01 01:43:41"
     }
   },
   "matrixArrType": "Float32",
@@ -41,7 +41,7 @@
       "type": "uniqueString",
       "maxSize": 16,
       "diffValCount": 9403,
-      "md5": "25cf6ed1a0"
+      "md5": "bd27f1b69a"
     },
     {
       "name": "nCount_RNA",
@@ -49,7 +49,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 2244,
-      "md5": "80c3e73f1f"
+      "md5": "6fc8a1d63e"
     },
     {
       "name": "nFeature_RNA",
@@ -57,7 +57,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 130,
-      "md5": "3dac919e95"
+      "md5": "c410429a35"
     },
     {
       "name": "celltype",
@@ -179,7 +179,7 @@
         "Club",
         "Mast"
       ],
-      "md5": "6c63eca1d2"
+      "md5": "4ff14e185d"
     },
     {
       "name": "sampleorigin",
@@ -191,7 +191,7 @@
           3830
         ],
         [
-          "sample6",
+          "sample3",
           2364
         ],
         [
@@ -205,7 +205,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 4,
-      "md5": "dafd4e8c36"
+      "md5": "632639d5cd"
     }
   ],
   "labelField": "celltype",
@@ -401,7 +401,7 @@
   ],
   "name": "MouseLung",
   "shortLabel": "MouseLung",
-  "geneLabel": "Gene",
+  "geneLabel": "miRNA",
   "clusterField": "celltype",
-  "md5": "0bb048cf3e"
+  "md5": "214c3f8a77"
 }

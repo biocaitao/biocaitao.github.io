@@ -15,7 +15,7 @@
       "shortLabel": "Seurat tsne"
     }
   ],
-  "geneLabel": "Gene",
+  "geneLabel": "mRNA",
   "quickGenesFile": "quickGenes.csv",
   "markers": [
     {

@@ -1,34 +1,34 @@
 {
   "fileVersions": {
     "inMatrix": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/exprMatrix.tsv.gz",
-      "md5": "6a2fc7058d",
       "size": 83245502,
-      "mtime": "2023-02-10 05:51:25"
+      "mtime": "2023-02-10 05:51:25",
+      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/exprMatrix.tsv.gz",
+      "md5": "6a2fc7058d"
     },
     "outMatrix": {
-      "fname": "lung_rna/MouseLung/exprMatrix.tsv.gz",
-      "md5": "6a2fc7058d",
       "size": 83245502,
-      "mtime": "2023-02-10 06:00:48"
+      "mtime": "2023-02-10 06:00:48",
+      "fname": "lung_rna/MouseLung/exprMatrix.tsv.gz",
+      "md5": "6a2fc7058d"
     },
     "inMeta": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/meta.tsv",
-      "md5": "2ee2b31902",
+      "md5": "c7dc511174",
       "size": 466949,
-      "mtime": "2023-02-10 06:07:54"
+      "mtime": "2023-03-01 01:42:17"
     },
     "outMeta": {
       "fname": "lung_rna/MouseLung/meta.tsv",
-      "md5": "2ee2b31902",
+      "md5": "c7dc511174",
       "size": 466949,
-      "mtime": "2023-02-10 06:21:02"
+      "mtime": "2023-03-01 01:42:34"
     },
     "conf": {
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/cellbrowser.conf",
-      "md5": "39cc2b8bbb",
+      "md5": "82b4a7d1da",
       "size": 565,
-      "mtime": "2023-02-10 05:58:26"
+      "mtime": "2023-03-01 01:41:35"
     }
   },
   "matrixArrType": "Float32",
@@ -41,7 +41,7 @@
       "type": "uniqueString",
       "maxSize": 16,
       "diffValCount": 9403,
-      "md5": "ca88d448fa"
+      "md5": "25338ba4e5"
     },
     {
       "name": "nCount_RNA",
@@ -49,7 +49,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 9402,
-      "md5": "9b6a8f3101"
+      "md5": "b55471fb11"
     },
     {
       "name": "nFeature_RNA",
@@ -57,7 +57,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 1770,
-      "md5": "f54dcd0753"
+      "md5": "d207b76851"
     },
     {
       "name": "celltype",
@@ -179,7 +179,7 @@
         "Club",
         "Mast"
       ],
-      "md5": "a1b1bfddaa"
+      "md5": "23eace8e23"
     },
     {
       "name": "sampleorigin",
@@ -191,7 +191,7 @@
           3830
         ],
         [
-          "sample6",
+          "sample3",
           2364
         ],
         [
@@ -205,7 +205,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 4,
-      "md5": "ba6c5c038e"
+      "md5": "eac6970987"
     }
   ],
   "labelField": "celltype",
@@ -461,7 +461,7 @@
   ],
   "name": "MouseLung",
   "shortLabel": "MouseLung",
-  "geneLabel": "Gene",
+  "geneLabel": "mRNA",
   "clusterField": "celltype",
-  "md5": "d150c00444"
+  "md5": "2dcf79b3e2"
 }

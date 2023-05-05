@@ -1,6 +1,0 @@
-{
-  "coordFiles": [
-    "Seurat_tsne.coords.tsv.gz"
-  ],
-  "matrixFile": "lung_rna/MouseLung/exprMatrix.tsv.gz"
-}

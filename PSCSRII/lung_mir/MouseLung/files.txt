@@ -1,5 +1,0 @@
-exprMatrix.tsv.gz
-meta.tsv
-dataset.json
-desc.json
-Seurat_tsne.coords.tsv.gz

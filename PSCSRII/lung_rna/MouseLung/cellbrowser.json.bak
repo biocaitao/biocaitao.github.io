@@ -11,16 +11,16 @@
   ],
   "coords": [
     {
-      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/tsne.coords.tsv",
-      "shortLabel": "Seurat tsne"
+      "shortLabel": "Seurat tsne",
+      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/tsne.coords.tsv"
     }
   ],
   "geneLabel": "mRNA",
   "quickGenesFile": "quickGenes.csv",
   "markers": [
     {
-      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/celltype_markers.txt",
-      "shortLabel": "Cluster-specific markers"
+      "shortLabel": "Cluster-specific markers",
+      "file": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/celltype_markers.txt"
     }
   ],
   "metaOpt": {

@@ -1,37 +1,36 @@
 {
   "fileVersions": {
+    "inMeta": {
+      "size": 449748,
+      "mtime": "2024-03-07 07:12:05",
+      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/meta.tsv",
+      "md5": "488435e54a"
+    },
+    "outMeta": {
+      "size": 449748,
+      "mtime": "2024-03-07 07:12:41",
+      "fname": "lung_rna/MouseLung/meta.tsv",
+      "md5": "488435e54a"
+    },
+    "outMatrix": {
+      "size": 83245502,
+      "mtime": "2024-03-07 07:12:42",
+      "fname": "lung_rna/MouseLung/exprMatrix.tsv.gz",
+      "md5": "6a2fc7058d"
+    },
     "inMatrix": {
       "size": 83245502,
       "mtime": "2023-02-10 05:51:25",
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/exprMatrix.tsv.gz",
       "md5": "6a2fc7058d"
     },
-    "outMatrix": {
-      "size": 83245502,
-      "mtime": "2023-02-10 06:00:48",
-      "fname": "lung_rna/MouseLung/exprMatrix.tsv.gz",
-      "md5": "6a2fc7058d"
-    },
-    "inMeta": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/meta.tsv",
-      "md5": "c7dc511174",
-      "size": 466949,
-      "mtime": "2023-03-01 01:42:17"
-    },
-    "outMeta": {
-      "fname": "lung_rna/MouseLung/meta.tsv",
-      "md5": "c7dc511174",
-      "size": 466949,
-      "mtime": "2023-03-01 01:42:34"
-    },
     "conf": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/cellbrowser.conf",
-      "md5": "82b4a7d1da",
       "size": 565,
-      "mtime": "2023-03-01 01:41:35"
+      "mtime": "2023-03-01 01:41:35",
+      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/cellbrowser.conf",
+      "md5": "82b4a7d1da"
     }
   },
-  "matrixArrType": "Float32",
   "sampleCount": 9403,
   "matrixWasFiltered": false,
   "metaFields": [
@@ -41,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 16,
       "diffValCount": 9403,
-      "md5": "25338ba4e5"
+      "md5": "2619248a62"
     },
     {
       "name": "nCount_RNA",
@@ -49,7 +48,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 9402,
-      "md5": "b55471fb11"
+      "md5": "bc50e55e75"
     },
     {
       "name": "nFeature_RNA",
@@ -57,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 1770,
-      "md5": "d207b76851"
+      "md5": "6bfdd3cba4"
     },
     {
       "name": "celltype",
@@ -179,7 +178,7 @@
         "Club",
         "Mast"
       ],
-      "md5": "23eace8e23"
+      "md5": "d75cac607f"
     },
     {
       "name": "sampleorigin",
@@ -187,27 +186,28 @@
       "type": "enum",
       "valCounts": [
         [
-          "sample4",
+          "s4_3m",
           3830
         ],
         [
-          "sample3",
+          "s3_2m",
           2364
         ],
         [
-          "sample2",
+          "s2_30m",
           1605
         ],
         [
-          "sample1",
+          "s1_5m",
           1604
         ]
       ],
       "arrType": "Uint8",
       "diffValCount": 4,
-      "md5": "eac6970987"
+      "md5": "dabb542b5e"
     }
   ],
+  "matrixArrType": "Float32",
   "labelField": "celltype",
   "coords": [
     {
@@ -227,82 +227,19 @@
     "datasetDesc"
   ],
   "topMarkers": {
-    "T": [
-      "Il7r",
-      "Ms4a4b",
-      "Cd3g",
-      "Lat",
-      "Ms4a6b"
+    "Cilia": [
+      "Cfap44",
+      "Dnah6",
+      "Dnah12",
+      "Dnah3",
+      "Sec14l3"
     ],
-    "NK": [
-      "Gzma",
-      "Klra8",
-      "Klra4",
-      "Ccl5",
-      "Klrb1c"
-    ],
-    "B": [
-      "Cd79b",
-      "Cd79a",
-      "Ebf1",
-      "Ms4a1",
-      "H2-Ob"
-    ],
-    "Eryth": [
-      "Hbb-bs",
-      "Hba-a1",
-      "Hba-a2",
-      "Hbb-bt",
-      "Alas2"
-    ],
-    "TRAM": [
-      "Chil3",
-      "Mrc1",
-      "Ear2",
-      "Ear1",
-      "Lpl"
-    ],
-    "TRAMcc": [
-      "Mki67",
-      "Top2a",
-      "Chil3",
-      "Gdf15",
-      "Cenpe"
-    ],
-    "TRIM": [
-      "Apoe",
-      "C1qa",
-      "C1qb",
-      "C1qc",
-      "Mafb"
-    ],
-    "Neu": [
-      "S100a9",
-      "S100a8",
-      "Il1b",
-      "Retnlg",
-      "Cxcl2"
-    ],
-    "Mono": [
-      "Atf3",
-      "Plac8",
-      "Ccl9",
-      "F13a1",
-      "Ms4a6c"
-    ],
-    "MDM": [
-      "Emr4",
-      "Clec4a3",
-      "Ceacam1",
-      "Clec4a1",
-      "Lst1"
-    ],
-    "Mast": [
-      "Il6",
-      "Ccl3",
-      "Ccl4",
-      "Osm",
-      "Csf1"
+    "Fibro": [
+      "Gsn",
+      "Mgp",
+      "Dcn",
+      "Col1a2",
+      "Col1a1"
     ],
     "DC": [
       "Cst3",
@@ -318,19 +255,40 @@
       "Postn",
       "Myh11"
     ],
-    "Fibro": [
-      "Gsn",
-      "Mgp",
-      "Dcn",
-      "Col1a2",
-      "Col1a1"
+    "NK": [
+      "Gzma",
+      "Klra8",
+      "Klra4",
+      "Ccl5",
+      "Klrb1c"
     ],
-    "Muscle": [
-      "Hhip",
-      "Enpp2",
-      "Igfbp3",
-      "Igfbp5",
-      "Mustn1"
+    "Neu": [
+      "S100a9",
+      "S100a8",
+      "Il1b",
+      "Retnlg",
+      "Cxcl2"
+    ],
+    "MDM": [
+      "Emr4",
+      "Clec4a3",
+      "Ceacam1",
+      "Clec4a1",
+      "Lst1"
+    ],
+    "Club": [
+      "Scgb1a1",
+      "Cyp2f2",
+      "Cbr2",
+      "Scgb3a2",
+      "Wfdc2"
+    ],
+    "Eryth": [
+      "Hbb-bs",
+      "Hba-a1",
+      "Hba-a2",
+      "Hbb-bt",
+      "Alas2"
     ],
     "Endo": [
       "Ptprb",
@@ -339,6 +297,27 @@
       "Egfl7",
       "Epas1"
     ],
+    "TRIM": [
+      "Apoe",
+      "C1qa",
+      "C1qb",
+      "C1qc",
+      "Mafb"
+    ],
+    "B": [
+      "Cd79b",
+      "Cd79a",
+      "Ebf1",
+      "Ms4a1",
+      "H2-Ob"
+    ],
+    "Mono": [
+      "Atf3",
+      "Plac8",
+      "Ccl9",
+      "F13a1",
+      "Ms4a6c"
+    ],
     "Lymph": [
       "Ccl21a",
       "Mmrn1",
@@ -346,26 +325,47 @@
       "Flt4",
       "Nrp2"
     ],
+    "TRAMcc": [
+      "Mki67",
+      "Top2a",
+      "Chil3",
+      "Gdf15",
+      "Cenpe"
+    ],
+    "Mast": [
+      "Il6",
+      "Ccl3",
+      "Ccl4",
+      "Osm",
+      "Csf1"
+    ],
+    "T": [
+      "Il7r",
+      "Ms4a4b",
+      "Cd3g",
+      "Lat",
+      "Ms4a6b"
+    ],
+    "Muscle": [
+      "Hhip",
+      "Enpp2",
+      "Igfbp3",
+      "Igfbp5",
+      "Mustn1"
+    ],
+    "TRAM": [
+      "Chil3",
+      "Mrc1",
+      "Ear2",
+      "Ear1",
+      "Lpl"
+    ],
     "Aerocyte": [
       "Kdr",
       "Car4",
       "Ednrb",
       "Emp2",
       "Igfbp7"
-    ],
-    "Cilia": [
-      "Cfap44",
-      "Dnah6",
-      "Dnah12",
-      "Dnah3",
-      "Sec14l3"
-    ],
-    "Club": [
-      "Scgb1a1",
-      "Cyp2f2",
-      "Cbr2",
-      "Scgb3a2",
-      "Wfdc2"
     ],
     "AT2": [
       "Sftpc",
@@ -384,8 +384,8 @@
   },
   "markers": [
     {
-      "name": "markers_0",
-      "shortLabel": "Cluster-specific markers"
+      "shortLabel": "Cluster-specific markers",
+      "name": "markers_0"
     }
   ],
   "quickGenes": [
@@ -463,5 +463,5 @@
   "shortLabel": "MouseLung",
   "geneLabel": "mRNA",
   "clusterField": "celltype",
-  "md5": "2dcf79b3e2"
+  "md5": "192a6ca2a7"
 }

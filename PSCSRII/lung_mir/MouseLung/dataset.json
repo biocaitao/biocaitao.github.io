@@ -1,37 +1,36 @@
 {
   "fileVersions": {
-    "inMatrix": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/exprMatrix.tsv.gz",
-      "md5": "330b2f68d2",
-      "size": 7121591,
-      "mtime": "2023-02-10 06:14:35"
-    },
-    "outMatrix": {
-      "fname": "lung_mir/MouseLung/exprMatrix.tsv.gz",
-      "md5": "330b2f68d2",
-      "size": 7121591,
-      "mtime": "2023-02-10 06:19:36"
-    },
     "inMeta": {
+      "size": 329176,
+      "mtime": "2024-03-07 07:14:00",
       "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/meta.tsv",
-      "md5": "c6bdc0d21d",
-      "size": 346377,
-      "mtime": "2023-03-01 01:44:04"
+      "md5": "dc3006f7fe"
     },
     "outMeta": {
+      "size": 329176,
+      "mtime": "2024-03-07 07:14:16",
       "fname": "lung_mir/MouseLung/meta.tsv",
-      "md5": "c6bdc0d21d",
-      "size": 346377,
-      "mtime": "2023-03-01 01:44:16"
+      "md5": "dc3006f7fe"
+    },
+    "outMatrix": {
+      "size": 7121591,
+      "mtime": "2024-03-07 07:14:17",
+      "fname": "lung_mir/MouseLung/exprMatrix.tsv.gz",
+      "md5": "330b2f68d2"
+    },
+    "inMatrix": {
+      "size": 7121591,
+      "mtime": "2023-02-10 06:14:35",
+      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/exprMatrix.tsv.gz",
+      "md5": "330b2f68d2"
     },
     "conf": {
-      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/cellbrowser.conf",
-      "md5": "26eca9b13b",
       "size": 566,
-      "mtime": "2023-03-01 01:43:41"
+      "mtime": "2023-03-01 01:43:41",
+      "fname": "/ddn/CaiT/CaiT/sRNA/PSCSRII/mouse_lung/cellbrowser/miRNA/cellbrowser.conf",
+      "md5": "26eca9b13b"
     }
   },
-  "matrixArrType": "Float32",
   "sampleCount": 9403,
   "matrixWasFiltered": false,
   "metaFields": [
@@ -41,7 +40,7 @@
       "type": "uniqueString",
       "maxSize": 16,
       "diffValCount": 9403,
-      "md5": "bd27f1b69a"
+      "md5": "e64827525a"
     },
     {
       "name": "nCount_RNA",
@@ -49,7 +48,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 2244,
-      "md5": "6fc8a1d63e"
+      "md5": "448f1651c9"
     },
     {
       "name": "nFeature_RNA",
@@ -57,7 +56,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 130,
-      "md5": "c410429a35"
+      "md5": "f2a39683c2"
     },
     {
       "name": "celltype",
@@ -179,7 +178,7 @@
         "Club",
         "Mast"
       ],
-      "md5": "4ff14e185d"
+      "md5": "cc151842a2"
     },
     {
       "name": "sampleorigin",
@@ -187,27 +186,28 @@
       "type": "enum",
       "valCounts": [
         [
-          "sample4",
+          "s4_3m",
           3830
         ],
         [
-          "sample3",
+          "s3_2m",
           2364
         ],
         [
-          "sample2",
+          "s2_30m",
           1605
         ],
         [
-          "sample1",
+          "s1_5m",
           1604
         ]
       ],
       "arrType": "Uint8",
       "diffValCount": 4,
-      "md5": "632639d5cd"
+      "md5": "6dac8c2737"
     }
   ],
+  "matrixArrType": "Float32",
   "labelField": "celltype",
   "coords": [
     {
@@ -227,79 +227,19 @@
     "datasetDesc"
   ],
   "topMarkers": {
-    "T": [
-      "miR-20b-5p",
-      "miR-106a-5p",
-      "miR-155-5p",
-      "miR-150-3p",
-      "miR-7a-5p"
+    "Cilia": [
+      "miR-34c-3p",
+      "miR-34b-3p",
+      "miR-34b-5p",
+      "miR-92b-3p",
+      "miR-375-3p"
     ],
-    "NK": [
-      "miR-149-5p",
-      "miR-139-5p",
-      "miR-21a-5p"
-    ],
-    "B": [
-      "miR-425-5p",
-      "miR-150-5p",
-      "miR-374b-5p",
-      "miR-142a-5p",
-      "miR-33-3p"
-    ],
-    "Eryth": [
-      "miR-451a",
-      "miR-486a-5p",
-      "miR-486b-5p",
-      "miR-144-3p"
-    ],
-    "TRAM": [
-      "miR-1298-5p",
-      "miR-146b-5p",
-      "miR-764-5p",
-      "miR-511-3p",
-      "miR-34a-5p"
-    ],
-    "TRAMcc": [
-      "miR-1298-5p",
-      "miR-764-5p",
-      "miR-146b-5p",
-      "miR-34a-5p",
-      "miR-1264-3p"
-    ],
-    "TRIM": [
-      "miR-511-3p",
-      "miR-146a-5p",
-      "miR-501-3p",
-      "miR-674-3p",
-      "miR-34a-5p"
-    ],
-    "Neu": [
-      "miR-135a-5p",
-      "miR-223-3p",
-      "miR-223-5p",
-      "miR-139-5p",
-      "miR-340-3p"
-    ],
-    "Mono": [
-      "miR-223-3p",
-      "miR-223-5p",
-      "miR-18a-5p",
-      "miR-5100",
-      "miR-301a-3p"
-    ],
-    "MDM": [
-      "miR-223-3p",
-      "miR-223-5p",
-      "miR-652-3p",
-      "miR-340-5p",
-      "miR-1249-3p"
-    ],
-    "Mast": [
-      "miR-31-3p",
-      "miR-31-5p",
-      "miR-135a-5p",
-      "miR-340-5p",
-      "miR-223-3p"
+    "Fibro": [
+      "miR-214-3p",
+      "miR-199a-3p",
+      "miR-199b-3p",
+      "miR-218-5p",
+      "miR-199a-5p"
     ],
     "DC": [
       "miR-455-3p",
@@ -315,19 +255,37 @@
       "miR-3102-3p",
       "miR-145a-3p"
     ],
-    "Fibro": [
-      "miR-214-3p",
-      "miR-199a-3p",
-      "miR-199b-3p",
-      "miR-218-5p",
-      "miR-199a-5p"
+    "NK": [
+      "miR-149-5p",
+      "miR-139-5p",
+      "miR-21a-5p"
     ],
-    "Muscle": [
-      "miR-708-5p",
-      "miR-204-5p",
-      "miR-214-3p",
-      "miR-199a-5p",
-      "miR-1247-5p"
+    "Neu": [
+      "miR-135a-5p",
+      "miR-223-3p",
+      "miR-223-5p",
+      "miR-139-5p",
+      "miR-340-3p"
+    ],
+    "MDM": [
+      "miR-223-3p",
+      "miR-223-5p",
+      "miR-652-3p",
+      "miR-340-5p",
+      "miR-1249-3p"
+    ],
+    "Club": [
+      "miR-375-3p",
+      "miR-200b-3p",
+      "miR-200a-3p",
+      "miR-200c-3p",
+      "miR-429-3p"
+    ],
+    "Eryth": [
+      "miR-451a",
+      "miR-486a-5p",
+      "miR-486b-5p",
+      "miR-144-3p"
     ],
     "Endo": [
       "miR-126a-5p",
@@ -336,6 +294,27 @@
       "miR-30a-3p",
       "miR-30a-5p"
     ],
+    "TRIM": [
+      "miR-511-3p",
+      "miR-146a-5p",
+      "miR-501-3p",
+      "miR-674-3p",
+      "miR-34a-5p"
+    ],
+    "B": [
+      "miR-425-5p",
+      "miR-150-5p",
+      "miR-374b-5p",
+      "miR-142a-5p",
+      "miR-33-3p"
+    ],
+    "Mono": [
+      "miR-223-3p",
+      "miR-223-5p",
+      "miR-18a-5p",
+      "miR-5100",
+      "miR-301a-3p"
+    ],
     "Lymph": [
       "miR-132-3p",
       "miR-99a-5p",
@@ -343,26 +322,47 @@
       "miR-5099",
       "miR-23b-3p"
     ],
+    "TRAMcc": [
+      "miR-1298-5p",
+      "miR-764-5p",
+      "miR-146b-5p",
+      "miR-34a-5p",
+      "miR-1264-3p"
+    ],
+    "Mast": [
+      "miR-31-3p",
+      "miR-31-5p",
+      "miR-135a-5p",
+      "miR-340-5p",
+      "miR-223-3p"
+    ],
+    "T": [
+      "miR-20b-5p",
+      "miR-106a-5p",
+      "miR-155-5p",
+      "miR-150-3p",
+      "miR-7a-5p"
+    ],
+    "Muscle": [
+      "miR-708-5p",
+      "miR-204-5p",
+      "miR-214-3p",
+      "miR-199a-5p",
+      "miR-1247-5p"
+    ],
+    "TRAM": [
+      "miR-1298-5p",
+      "miR-146b-5p",
+      "miR-764-5p",
+      "miR-511-3p",
+      "miR-34a-5p"
+    ],
     "Aerocyte": [
       "miR-335-5p",
       "miR-1941-3p",
       "miR-126a-3p",
       "miR-181b-5p",
       "let-7i-5p"
-    ],
-    "Cilia": [
-      "miR-34c-3p",
-      "miR-34b-3p",
-      "miR-34b-5p",
-      "miR-92b-3p",
-      "miR-375-3p"
-    ],
-    "Club": [
-      "miR-375-3p",
-      "miR-200b-3p",
-      "miR-200a-3p",
-      "miR-200c-3p",
-      "miR-429-3p"
     ],
     "AT2": [
       "miR-31-5p",
@@ -381,8 +381,8 @@
   },
   "markers": [
     {
-      "name": "markers_0",
-      "shortLabel": "Cluster-specific markers"
+      "shortLabel": "Cluster-specific markers",
+      "name": "markers_0"
     }
   ],
   "quickGenes": [
@@ -403,5 +403,5 @@
   "shortLabel": "MouseLung",
   "geneLabel": "miRNA",
   "clusterField": "celltype",
-  "md5": "214c3f8a77"
+  "md5": "0872f6b16e"
 }
